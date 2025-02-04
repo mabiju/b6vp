@@ -1,0 +1,15 @@
+D:\SCCSB6\L_Inheritance\a_single_inheritance\bin\Debug\net8.0\a_single_inheritance.exe
+D:\SCCSB6\L_Inheritance\a_single_inheritance\bin\Debug\net8.0\a_single_inheritance.deps.json
+D:\SCCSB6\L_Inheritance\a_single_inheritance\bin\Debug\net8.0\a_single_inheritance.runtimeconfig.json
+D:\SCCSB6\L_Inheritance\a_single_inheritance\bin\Debug\net8.0\a_single_inheritance.dll
+D:\SCCSB6\L_Inheritance\a_single_inheritance\bin\Debug\net8.0\a_single_inheritance.pdb
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\a_single_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\a_single_inheritance.AssemblyInfoInputs.cache
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\a_single_inheritance.AssemblyInfo.cs
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\a_single_inheritance.csproj.CoreCompileInputs.cache
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\a_single_inheritance.sourcelink.json
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\a_single_inheritance.dll
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\refint\a_single_inheritance.dll
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\a_single_inheritance.pdb
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\a_single_inheritance.genruntimeconfig.cache
+D:\SCCSB6\L_Inheritance\a_single_inheritance\obj\Debug\net8.0\ref\a_single_inheritance.dll

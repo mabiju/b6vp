@@ -1,0 +1,15 @@
+D:\SCVPB6\J_Static_Class_Method\b_static\bin\Debug\net9.0\b_static.exe
+D:\SCVPB6\J_Static_Class_Method\b_static\bin\Debug\net9.0\b_static.deps.json
+D:\SCVPB6\J_Static_Class_Method\b_static\bin\Debug\net9.0\b_static.runtimeconfig.json
+D:\SCVPB6\J_Static_Class_Method\b_static\bin\Debug\net9.0\b_static.dll
+D:\SCVPB6\J_Static_Class_Method\b_static\bin\Debug\net9.0\b_static.pdb
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\b_static.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\b_static.AssemblyInfoInputs.cache
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\b_static.AssemblyInfo.cs
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\b_static.csproj.CoreCompileInputs.cache
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\b_static.sourcelink.json
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\b_static.dll
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\refint\b_static.dll
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\b_static.pdb
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\b_static.genruntimeconfig.cache
+D:\SCVPB6\J_Static_Class_Method\b_static\obj\Debug\net9.0\ref\b_static.dll

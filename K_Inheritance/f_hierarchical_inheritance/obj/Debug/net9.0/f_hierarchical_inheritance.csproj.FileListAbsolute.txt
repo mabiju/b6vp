@@ -1,0 +1,15 @@
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\bin\Debug\net9.0\f_hierarchical_inheritance.exe
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\bin\Debug\net9.0\f_hierarchical_inheritance.deps.json
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\bin\Debug\net9.0\f_hierarchical_inheritance.runtimeconfig.json
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\bin\Debug\net9.0\f_hierarchical_inheritance.dll
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\bin\Debug\net9.0\f_hierarchical_inheritance.pdb
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\f_hierarchical_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\f_hierarchical_inheritance.AssemblyInfoInputs.cache
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\f_hierarchical_inheritance.AssemblyInfo.cs
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\f_hierarchical_inheritance.csproj.CoreCompileInputs.cache
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\f_hierarchical_inheritance.sourcelink.json
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\f_hierarchical_inheritance.dll
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\refint\f_hierarchical_inheritance.dll
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\f_hierarchical_inheritance.pdb
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\f_hierarchical_inheritance.genruntimeconfig.cache
+D:\SCVPB6\K_Inheritance\f_hierarchical_inheritance\obj\Debug\net9.0\ref\f_hierarchical_inheritance.dll

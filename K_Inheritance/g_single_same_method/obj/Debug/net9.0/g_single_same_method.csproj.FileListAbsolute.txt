@@ -1,0 +1,15 @@
+D:\SCVPB6\K_Inheritance\g_single_same_method\bin\Debug\net9.0\g_single_same_method.exe
+D:\SCVPB6\K_Inheritance\g_single_same_method\bin\Debug\net9.0\g_single_same_method.deps.json
+D:\SCVPB6\K_Inheritance\g_single_same_method\bin\Debug\net9.0\g_single_same_method.runtimeconfig.json
+D:\SCVPB6\K_Inheritance\g_single_same_method\bin\Debug\net9.0\g_single_same_method.dll
+D:\SCVPB6\K_Inheritance\g_single_same_method\bin\Debug\net9.0\g_single_same_method.pdb
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\g_single_same_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\g_single_same_method.AssemblyInfoInputs.cache
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\g_single_same_method.AssemblyInfo.cs
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\g_single_same_method.csproj.CoreCompileInputs.cache
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\g_single_same_method.sourcelink.json
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\g_single_same_method.dll
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\refint\g_single_same_method.dll
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\g_single_same_method.pdb
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\g_single_same_method.genruntimeconfig.cache
+D:\SCVPB6\K_Inheritance\g_single_same_method\obj\Debug\net9.0\ref\g_single_same_method.dll

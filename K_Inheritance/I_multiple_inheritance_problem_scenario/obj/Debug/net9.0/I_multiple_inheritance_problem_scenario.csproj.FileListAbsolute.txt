@@ -1,0 +1,5 @@
+D:\SCVPB6\K_Inheritance\I_multiple_inheritance_problem_scenario\obj\Debug\net9.0\I_multiple_inheritance_problem_scenario.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\K_Inheritance\I_multiple_inheritance_problem_scenario\obj\Debug\net9.0\I_multiple_inheritance_problem_scenario.AssemblyInfoInputs.cache
+D:\SCVPB6\K_Inheritance\I_multiple_inheritance_problem_scenario\obj\Debug\net9.0\I_multiple_inheritance_problem_scenario.AssemblyInfo.cs
+D:\SCVPB6\K_Inheritance\I_multiple_inheritance_problem_scenario\obj\Debug\net9.0\I_multiple_inheritance_problem_scenario.csproj.CoreCompileInputs.cache
+D:\SCVPB6\K_Inheritance\I_multiple_inheritance_problem_scenario\obj\Debug\net9.0\I_multiple_inheritance_problem_scenario.sourcelink.json
