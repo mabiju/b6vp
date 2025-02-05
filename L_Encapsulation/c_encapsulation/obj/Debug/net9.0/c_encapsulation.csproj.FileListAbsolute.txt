@@ -1,0 +1,15 @@
+D:\SCVPB6\L_Encapsulation\c_encapsulation\bin\Debug\net9.0\c_encapsulation.exe
+D:\SCVPB6\L_Encapsulation\c_encapsulation\bin\Debug\net9.0\c_encapsulation.deps.json
+D:\SCVPB6\L_Encapsulation\c_encapsulation\bin\Debug\net9.0\c_encapsulation.runtimeconfig.json
+D:\SCVPB6\L_Encapsulation\c_encapsulation\bin\Debug\net9.0\c_encapsulation.dll
+D:\SCVPB6\L_Encapsulation\c_encapsulation\bin\Debug\net9.0\c_encapsulation.pdb
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\c_encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\c_encapsulation.AssemblyInfoInputs.cache
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\c_encapsulation.AssemblyInfo.cs
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\c_encapsulation.csproj.CoreCompileInputs.cache
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\c_encapsulation.sourcelink.json
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\c_encapsulation.dll
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\refint\c_encapsulation.dll
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\c_encapsulation.pdb
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\c_encapsulation.genruntimeconfig.cache
+D:\SCVPB6\L_Encapsulation\c_encapsulation\obj\Debug\net9.0\ref\c_encapsulation.dll
