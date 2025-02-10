@@ -1,0 +1,15 @@
+D:\SCVPB6\N_Abstraction\f_abstract\bin\Debug\net9.0\f_abstract.exe
+D:\SCVPB6\N_Abstraction\f_abstract\bin\Debug\net9.0\f_abstract.deps.json
+D:\SCVPB6\N_Abstraction\f_abstract\bin\Debug\net9.0\f_abstract.runtimeconfig.json
+D:\SCVPB6\N_Abstraction\f_abstract\bin\Debug\net9.0\f_abstract.dll
+D:\SCVPB6\N_Abstraction\f_abstract\bin\Debug\net9.0\f_abstract.pdb
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\f_abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\f_abstract.AssemblyInfoInputs.cache
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\f_abstract.AssemblyInfo.cs
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\f_abstract.csproj.CoreCompileInputs.cache
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\f_abstract.sourcelink.json
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\f_abstract.dll
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\refint\f_abstract.dll
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\f_abstract.pdb
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\f_abstract.genruntimeconfig.cache
+D:\SCVPB6\N_Abstraction\f_abstract\obj\Debug\net9.0\ref\f_abstract.dll

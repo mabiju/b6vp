@@ -1,0 +1,15 @@
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\bin\Debug\net9.0\d_abstract_netflix_plan.exe
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\bin\Debug\net9.0\d_abstract_netflix_plan.deps.json
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\bin\Debug\net9.0\d_abstract_netflix_plan.runtimeconfig.json
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\bin\Debug\net9.0\d_abstract_netflix_plan.dll
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\bin\Debug\net9.0\d_abstract_netflix_plan.pdb
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\d_abstract_netflix_plan.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\d_abstract_netflix_plan.AssemblyInfoInputs.cache
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\d_abstract_netflix_plan.AssemblyInfo.cs
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\d_abstract_netflix_plan.csproj.CoreCompileInputs.cache
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\d_abstract_netflix_plan.sourcelink.json
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\d_abstract_netflix_plan.dll
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\refint\d_abstract_netflix_plan.dll
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\d_abstract_netflix_plan.pdb
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\d_abstract_netflix_plan.genruntimeconfig.cache
+D:\SCVPB6\N_Abstraction\d_abstract_netflix_plan\obj\Debug\net9.0\ref\d_abstract_netflix_plan.dll

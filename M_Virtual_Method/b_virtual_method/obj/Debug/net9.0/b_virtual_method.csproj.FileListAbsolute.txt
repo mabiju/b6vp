@@ -1,0 +1,15 @@
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.AssemblyInfoInputs.cache
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.AssemblyInfo.cs
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.csproj.CoreCompileInputs.cache
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.sourcelink.json
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.exe
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.deps.json
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.runtimeconfig.json
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.dll
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.pdb
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.dll
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\refint\b_virtual_method.dll
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.pdb
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.genruntimeconfig.cache
+D:\SCVPB6\M_Virtual_Method\b_virtual_method\obj\Debug\net9.0\ref\b_virtual_method.dll

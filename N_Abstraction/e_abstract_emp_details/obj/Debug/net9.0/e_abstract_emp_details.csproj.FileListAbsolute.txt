@@ -1,0 +1,15 @@
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.exe
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.deps.json
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.runtimeconfig.json
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.dll
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.pdb
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.AssemblyInfoInputs.cache
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.AssemblyInfo.cs
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.csproj.CoreCompileInputs.cache
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.sourcelink.json
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.dll
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\refint\e_abstract_emp_details.dll
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.pdb
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.genruntimeconfig.cache
+D:\SCVPB6\N_Abstraction\e_abstract_emp_details\obj\Debug\net9.0\ref\e_abstract_emp_details.dll

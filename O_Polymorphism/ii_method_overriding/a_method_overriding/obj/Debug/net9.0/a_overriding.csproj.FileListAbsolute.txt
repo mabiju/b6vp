@@ -1,0 +1,15 @@
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\bin\Debug\net9.0\a_overriding.exe
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\bin\Debug\net9.0\a_overriding.deps.json
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\bin\Debug\net9.0\a_overriding.runtimeconfig.json
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\bin\Debug\net9.0\a_overriding.dll
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\bin\Debug\net9.0\a_overriding.pdb
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\a_overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\a_overriding.AssemblyInfoInputs.cache
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\a_overriding.AssemblyInfo.cs
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\a_overriding.csproj.CoreCompileInputs.cache
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\a_overriding.sourcelink.json
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\a_overriding.dll
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\refint\a_overriding.dll
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\a_overriding.pdb
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\a_overriding.genruntimeconfig.cache
+D:\SCVPB6\O_Polymorphism\ii_method_overriding\a_overriding\obj\Debug\net9.0\ref\a_overriding.dll

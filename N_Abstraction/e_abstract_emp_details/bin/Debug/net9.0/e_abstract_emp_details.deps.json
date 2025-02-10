@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "e_abstract_emp_details/1.0.0": {
+        "runtime": {
+          "e_abstract_emp_details.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e_abstract_emp_details/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
