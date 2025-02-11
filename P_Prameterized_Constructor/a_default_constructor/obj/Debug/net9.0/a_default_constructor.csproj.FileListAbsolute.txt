@@ -1,0 +1,15 @@
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\bin\Debug\net9.0\a_default_constructor.exe
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\bin\Debug\net9.0\a_default_constructor.deps.json
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\bin\Debug\net9.0\a_default_constructor.runtimeconfig.json
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\bin\Debug\net9.0\a_default_constructor.dll
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\bin\Debug\net9.0\a_default_constructor.pdb
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\a_default_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\a_default_constructor.AssemblyInfoInputs.cache
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\a_default_constructor.AssemblyInfo.cs
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\a_default_constructor.csproj.CoreCompileInputs.cache
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\a_default_constructor.sourcelink.json
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\a_default_constructor.dll
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\refint\a_default_constructor.dll
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\a_default_constructor.pdb
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\a_default_constructor.genruntimeconfig.cache
+D:\SCVPB6\P_Prameterized_Constructor\a_default_constructor\obj\Debug\net9.0\ref\a_default_constructor.dll

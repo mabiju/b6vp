@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "b_parameterized_constructor/1.0.0": {
+        "runtime": {
+          "b_parameterized_constructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b_parameterized_constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
