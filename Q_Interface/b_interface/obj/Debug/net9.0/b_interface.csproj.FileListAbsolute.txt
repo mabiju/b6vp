@@ -1,0 +1,15 @@
+D:\SCVPB6\Q_Interface\b_interface\bin\Debug\net9.0\b_interface.exe
+D:\SCVPB6\Q_Interface\b_interface\bin\Debug\net9.0\b_interface.deps.json
+D:\SCVPB6\Q_Interface\b_interface\bin\Debug\net9.0\b_interface.runtimeconfig.json
+D:\SCVPB6\Q_Interface\b_interface\bin\Debug\net9.0\b_interface.dll
+D:\SCVPB6\Q_Interface\b_interface\bin\Debug\net9.0\b_interface.pdb
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\b_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\b_interface.AssemblyInfoInputs.cache
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\b_interface.AssemblyInfo.cs
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\b_interface.csproj.CoreCompileInputs.cache
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\b_interface.sourcelink.json
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\b_interface.dll
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\refint\b_interface.dll
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\b_interface.pdb
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\b_interface.genruntimeconfig.cache
+D:\SCVPB6\Q_Interface\b_interface\obj\Debug\net9.0\ref\b_interface.dll

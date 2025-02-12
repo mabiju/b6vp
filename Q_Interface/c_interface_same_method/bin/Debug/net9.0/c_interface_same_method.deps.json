@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "c_interface_same_method/1.0.0": {
+        "runtime": {
+          "c_interface_same_method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c_interface_same_method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

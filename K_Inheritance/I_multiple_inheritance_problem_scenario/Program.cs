@@ -1,6 +1,5 @@
 ﻿namespace I_multiple_inheritance_problem_scenario;
 
-
 class Father
 {
     public void FatherMethod()

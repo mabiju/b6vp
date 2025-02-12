@@ -1,0 +1,15 @@
+D:\SCVPB6\Q_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.exe
+D:\SCVPB6\Q_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.deps.json
+D:\SCVPB6\Q_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.runtimeconfig.json
+D:\SCVPB6\Q_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.dll
+D:\SCVPB6\Q_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.pdb
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.AssemblyInfoInputs.cache
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.AssemblyInfo.cs
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.csproj.CoreCompileInputs.cache
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.sourcelink.json
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.dll
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\refint\e_interface_calculator.dll
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.pdb
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.genruntimeconfig.cache
+D:\SCVPB6\Q_Interface\e_interface_calculator\obj\Debug\net9.0\ref\e_interface_calculator.dll
