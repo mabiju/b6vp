@@ -1,0 +1,15 @@
+D:\SCVPB6\R_Delegates\a_delegate\bin\Debug\net9.0\a_delegate.exe
+D:\SCVPB6\R_Delegates\a_delegate\bin\Debug\net9.0\a_delegate.deps.json
+D:\SCVPB6\R_Delegates\a_delegate\bin\Debug\net9.0\a_delegate.runtimeconfig.json
+D:\SCVPB6\R_Delegates\a_delegate\bin\Debug\net9.0\a_delegate.dll
+D:\SCVPB6\R_Delegates\a_delegate\bin\Debug\net9.0\a_delegate.pdb
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\a_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\a_delegate.AssemblyInfoInputs.cache
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\a_delegate.AssemblyInfo.cs
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\a_delegate.csproj.CoreCompileInputs.cache
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\a_delegate.sourcelink.json
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\a_delegate.dll
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\refint\a_delegate.dll
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\a_delegate.pdb
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\a_delegate.genruntimeconfig.cache
+D:\SCVPB6\R_Delegates\a_delegate\obj\Debug\net9.0\ref\a_delegate.dll
