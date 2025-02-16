@@ -1,0 +1,15 @@
+D:\SCVPB6\R_Delegates\g_delegate_multicast\bin\Debug\net9.0\g_delegate_multicast.exe
+D:\SCVPB6\R_Delegates\g_delegate_multicast\bin\Debug\net9.0\g_delegate_multicast.deps.json
+D:\SCVPB6\R_Delegates\g_delegate_multicast\bin\Debug\net9.0\g_delegate_multicast.runtimeconfig.json
+D:\SCVPB6\R_Delegates\g_delegate_multicast\bin\Debug\net9.0\g_delegate_multicast.dll
+D:\SCVPB6\R_Delegates\g_delegate_multicast\bin\Debug\net9.0\g_delegate_multicast.pdb
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\g_delegate_multicast.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\g_delegate_multicast.AssemblyInfoInputs.cache
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\g_delegate_multicast.AssemblyInfo.cs
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\g_delegate_multicast.csproj.CoreCompileInputs.cache
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\g_delegate_multicast.sourcelink.json
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\g_delegate_multicast.dll
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\refint\g_delegate_multicast.dll
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\g_delegate_multicast.pdb
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\g_delegate_multicast.genruntimeconfig.cache
+D:\SCVPB6\R_Delegates\g_delegate_multicast\obj\Debug\net9.0\ref\g_delegate_multicast.dll

@@ -1,0 +1,15 @@
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\d_delegate_singlecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\d_delegate_singlecast.AssemblyInfoInputs.cache
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\d_delegate_singlecast.AssemblyInfo.cs
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\d_delegate_singlecast.csproj.CoreCompileInputs.cache
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\d_delegate_singlecast.sourcelink.json
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\bin\Debug\net9.0\d_delegate_singlecast.exe
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\bin\Debug\net9.0\d_delegate_singlecast.deps.json
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\bin\Debug\net9.0\d_delegate_singlecast.runtimeconfig.json
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\bin\Debug\net9.0\d_delegate_singlecast.dll
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\bin\Debug\net9.0\d_delegate_singlecast.pdb
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\d_delegate_singlecast.dll
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\refint\d_delegate_singlecast.dll
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\d_delegate_singlecast.pdb
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\d_delegate_singlecast.genruntimeconfig.cache
+D:\SCVPB6\R_Delegates\d_delegate_singlecast\obj\Debug\net9.0\ref\d_delegate_singlecast.dll
