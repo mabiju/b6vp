@@ -1,0 +1,15 @@
+D:\SCVPB6\S_Lambda_Expression\b_lambda\bin\Debug\net9.0\b_lambda.exe
+D:\SCVPB6\S_Lambda_Expression\b_lambda\bin\Debug\net9.0\b_lambda.deps.json
+D:\SCVPB6\S_Lambda_Expression\b_lambda\bin\Debug\net9.0\b_lambda.runtimeconfig.json
+D:\SCVPB6\S_Lambda_Expression\b_lambda\bin\Debug\net9.0\b_lambda.dll
+D:\SCVPB6\S_Lambda_Expression\b_lambda\bin\Debug\net9.0\b_lambda.pdb
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\b_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\b_lambda.AssemblyInfoInputs.cache
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\b_lambda.AssemblyInfo.cs
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\b_lambda.csproj.CoreCompileInputs.cache
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\b_lambda.sourcelink.json
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\b_lambda.dll
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\refint\b_lambda.dll
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\b_lambda.pdb
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\b_lambda.genruntimeconfig.cache
+D:\SCVPB6\S_Lambda_Expression\b_lambda\obj\Debug\net9.0\ref\b_lambda.dll
