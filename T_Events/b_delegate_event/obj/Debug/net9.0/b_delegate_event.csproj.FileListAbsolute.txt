@@ -1,0 +1,15 @@
+D:\SCVPB6\T_Events\b_delegate_event\bin\Debug\net9.0\b_delegate_event.exe
+D:\SCVPB6\T_Events\b_delegate_event\bin\Debug\net9.0\b_delegate_event.deps.json
+D:\SCVPB6\T_Events\b_delegate_event\bin\Debug\net9.0\b_delegate_event.runtimeconfig.json
+D:\SCVPB6\T_Events\b_delegate_event\bin\Debug\net9.0\b_delegate_event.dll
+D:\SCVPB6\T_Events\b_delegate_event\bin\Debug\net9.0\b_delegate_event.pdb
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\b_delegate_event.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\b_delegate_event.AssemblyInfoInputs.cache
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\b_delegate_event.AssemblyInfo.cs
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\b_delegate_event.csproj.CoreCompileInputs.cache
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\b_delegate_event.sourcelink.json
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\b_delegate_event.dll
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\refint\b_delegate_event.dll
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\b_delegate_event.pdb
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\b_delegate_event.genruntimeconfig.cache
+D:\SCVPB6\T_Events\b_delegate_event\obj\Debug\net9.0\ref\b_delegate_event.dll

@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\b_char_array\bin\Debug\net9.0\b_char_array.exe
+D:\SCVPB6\U_String_Manipulation\b_char_array\bin\Debug\net9.0\b_char_array.deps.json
+D:\SCVPB6\U_String_Manipulation\b_char_array\bin\Debug\net9.0\b_char_array.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\b_char_array\bin\Debug\net9.0\b_char_array.dll
+D:\SCVPB6\U_String_Manipulation\b_char_array\bin\Debug\net9.0\b_char_array.pdb
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.dll
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\refint\b_char_array.dll
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.pdb
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\b_char_array.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\b_char_array\obj\Debug\net9.0\ref\b_char_array.dll
