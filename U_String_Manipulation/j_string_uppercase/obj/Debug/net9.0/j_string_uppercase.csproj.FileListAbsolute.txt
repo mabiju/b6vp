@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.exe
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.deps.json
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.dll
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\bin\Debug\net9.0\j_string_uppercase.pdb
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.dll
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\refint\j_string_uppercase.dll
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.pdb
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\j_string_uppercase.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\j_string_uppercase\obj\Debug\net9.0\ref\j_string_uppercase.dll

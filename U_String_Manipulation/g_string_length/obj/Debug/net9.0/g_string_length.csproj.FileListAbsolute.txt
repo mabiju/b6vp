@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\g_string_length\bin\Debug\net9.0\g_string_length.exe
+D:\SCVPB6\U_String_Manipulation\g_string_length\bin\Debug\net9.0\g_string_length.deps.json
+D:\SCVPB6\U_String_Manipulation\g_string_length\bin\Debug\net9.0\g_string_length.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\g_string_length\bin\Debug\net9.0\g_string_length.dll
+D:\SCVPB6\U_String_Manipulation\g_string_length\bin\Debug\net9.0\g_string_length.pdb
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\g_string_length.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\g_string_length.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\g_string_length.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\g_string_length.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\g_string_length.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\g_string_length.dll
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\refint\g_string_length.dll
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\g_string_length.pdb
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\g_string_length.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\g_string_length\obj\Debug\net9.0\ref\g_string_length.dll

@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\k_string_copy\bin\Debug\net9.0\k_string_copy.exe
+D:\SCVPB6\U_String_Manipulation\k_string_copy\bin\Debug\net9.0\k_string_copy.deps.json
+D:\SCVPB6\U_String_Manipulation\k_string_copy\bin\Debug\net9.0\k_string_copy.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\k_string_copy\bin\Debug\net9.0\k_string_copy.dll
+D:\SCVPB6\U_String_Manipulation\k_string_copy\bin\Debug\net9.0\k_string_copy.pdb
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\k_string_copy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\k_string_copy.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\k_string_copy.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\k_string_copy.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\k_string_copy.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\k_string_copy.dll
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\refint\k_string_copy.dll
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\k_string_copy.pdb
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\k_string_copy.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\k_string_copy\obj\Debug\net9.0\ref\k_string_copy.dll

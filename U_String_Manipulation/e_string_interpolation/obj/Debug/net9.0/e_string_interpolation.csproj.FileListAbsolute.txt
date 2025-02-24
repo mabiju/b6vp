@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.exe
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.deps.json
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.dll
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\bin\Debug\net9.0\e_string_interpolation.pdb
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.dll
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\refint\e_string_interpolation.dll
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.pdb
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\e_string_interpolation.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\e_string_interpolation\obj\Debug\net9.0\ref\e_string_interpolation.dll

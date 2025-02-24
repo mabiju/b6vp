@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.exe
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.deps.json
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.dll
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\bin\Debug\net9.0\i_string_lowercase.pdb
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.dll
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\refint\i_string_lowercase.dll
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.pdb
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\i_string_lowercase.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\i_string_lowercase\obj\Debug\net9.0\ref\i_string_lowercase.dll

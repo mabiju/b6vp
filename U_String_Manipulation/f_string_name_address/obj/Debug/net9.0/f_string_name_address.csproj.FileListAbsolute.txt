@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\bin\Debug\net9.0\f_string_name_address.exe
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\bin\Debug\net9.0\f_string_name_address.deps.json
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\bin\Debug\net9.0\f_string_name_address.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\bin\Debug\net9.0\f_string_name_address.dll
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\bin\Debug\net9.0\f_string_name_address.pdb
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\f_string_name_address.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\f_string_name_address.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\f_string_name_address.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\f_string_name_address.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\f_string_name_address.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\f_string_name_address.dll
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\refint\f_string_name_address.dll
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\f_string_name_address.pdb
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\f_string_name_address.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\f_string_name_address\obj\Debug\net9.0\ref\f_string_name_address.dll

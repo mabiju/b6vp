@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "e_string_interpolation/1.0.0": {
+        "runtime": {
+          "e_string_interpolation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e_string_interpolation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
