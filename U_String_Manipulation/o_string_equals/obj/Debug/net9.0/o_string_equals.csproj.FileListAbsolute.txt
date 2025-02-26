@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\o_string_equals\bin\Debug\net9.0\o_string_equals.exe
+D:\SCVPB6\U_String_Manipulation\o_string_equals\bin\Debug\net9.0\o_string_equals.deps.json
+D:\SCVPB6\U_String_Manipulation\o_string_equals\bin\Debug\net9.0\o_string_equals.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\o_string_equals\bin\Debug\net9.0\o_string_equals.dll
+D:\SCVPB6\U_String_Manipulation\o_string_equals\bin\Debug\net9.0\o_string_equals.pdb
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\o_string_equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\o_string_equals.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\o_string_equals.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\o_string_equals.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\o_string_equals.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\o_string_equals.dll
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\refint\o_string_equals.dll
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\o_string_equals.pdb
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\o_string_equals.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\o_string_equals\obj\Debug\net9.0\ref\o_string_equals.dll

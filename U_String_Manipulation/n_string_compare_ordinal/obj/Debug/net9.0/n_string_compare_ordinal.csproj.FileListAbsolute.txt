@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\bin\Debug\net9.0\n_string_compare_ordinal.exe
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\bin\Debug\net9.0\n_string_compare_ordinal.deps.json
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\bin\Debug\net9.0\n_string_compare_ordinal.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\bin\Debug\net9.0\n_string_compare_ordinal.dll
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\bin\Debug\net9.0\n_string_compare_ordinal.pdb
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\n_string_compare_ordinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\n_string_compare_ordinal.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\n_string_compare_ordinal.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\n_string_compare_ordinal.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\n_string_compare_ordinal.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\n_string_compare_ordinal.dll
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\refint\n_string_compare_ordinal.dll
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\n_string_compare_ordinal.pdb
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\n_string_compare_ordinal.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\n_string_compare_ordinal\obj\Debug\net9.0\ref\n_string_compare_ordinal.dll

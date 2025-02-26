@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\p_string_contains\bin\Debug\net9.0\p_string_contains.exe
+D:\SCVPB6\U_String_Manipulation\p_string_contains\bin\Debug\net9.0\p_string_contains.deps.json
+D:\SCVPB6\U_String_Manipulation\p_string_contains\bin\Debug\net9.0\p_string_contains.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\p_string_contains\bin\Debug\net9.0\p_string_contains.dll
+D:\SCVPB6\U_String_Manipulation\p_string_contains\bin\Debug\net9.0\p_string_contains.pdb
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\p_string_contains.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\p_string_contains.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\p_string_contains.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\p_string_contains.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\p_string_contains.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\p_string_contains.dll
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\refint\p_string_contains.dll
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\p_string_contains.pdb
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\p_string_contains.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\p_string_contains\obj\Debug\net9.0\ref\p_string_contains.dll

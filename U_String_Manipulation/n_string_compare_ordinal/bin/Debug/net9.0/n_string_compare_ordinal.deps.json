@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "n_string_compare_ordinal/1.0.0": {
+        "runtime": {
+          "n_string_compare_ordinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "n_string_compare_ordinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

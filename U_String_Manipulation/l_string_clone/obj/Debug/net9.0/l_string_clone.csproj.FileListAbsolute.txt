@@ -1,0 +1,15 @@
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\l_string_clone.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\l_string_clone.AssemblyInfoInputs.cache
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\l_string_clone.AssemblyInfo.cs
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\l_string_clone.csproj.CoreCompileInputs.cache
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\l_string_clone.sourcelink.json
+D:\SCVPB6\U_String_Manipulation\l_string_clone\bin\Debug\net9.0\l_string_clone.exe
+D:\SCVPB6\U_String_Manipulation\l_string_clone\bin\Debug\net9.0\l_string_clone.deps.json
+D:\SCVPB6\U_String_Manipulation\l_string_clone\bin\Debug\net9.0\l_string_clone.runtimeconfig.json
+D:\SCVPB6\U_String_Manipulation\l_string_clone\bin\Debug\net9.0\l_string_clone.dll
+D:\SCVPB6\U_String_Manipulation\l_string_clone\bin\Debug\net9.0\l_string_clone.pdb
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\l_string_clone.dll
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\refint\l_string_clone.dll
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\l_string_clone.pdb
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\l_string_clone.genruntimeconfig.cache
+D:\SCVPB6\U_String_Manipulation\l_string_clone\obj\Debug\net9.0\ref\l_string_clone.dll
