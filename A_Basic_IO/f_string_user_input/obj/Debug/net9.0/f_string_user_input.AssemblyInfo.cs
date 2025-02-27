@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("f_string_user_input")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd6b2bf89c360edae86c1cd62d5e6422d2cf5995")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c87e0b5fea80fecb9eebf2f21bc77eea7ba896")]
 [assembly: System.Reflection.AssemblyProductAttribute("f_string_user_input")]
 [assembly: System.Reflection.AssemblyTitleAttribute("f_string_user_input")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
