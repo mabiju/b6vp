@@ -5,7 +5,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        StringBuilder s = new StringBuilder("Hello");
+        // 20 is the capacity of the string object.
+        StringBuilder s = new StringBuilder("Hello", 20);
         s.Append("Hi");
         s.AppendLine("Sanothimi");
         s.Append("Bhaktapur");

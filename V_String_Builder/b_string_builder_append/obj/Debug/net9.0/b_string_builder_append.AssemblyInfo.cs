@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("b_string_builder_append")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c87e0b5fea80fecb9eebf2f21bc77eea7ba896")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d094a8e02dcf7bf63b0ca5916229b0d71bb3ca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("b_string_builder_append")]
 [assembly: System.Reflection.AssemblyTitleAttribute("b_string_builder_append")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

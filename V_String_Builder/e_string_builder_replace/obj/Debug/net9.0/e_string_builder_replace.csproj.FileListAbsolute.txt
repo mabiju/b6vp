@@ -1,0 +1,15 @@
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\bin\Debug\net9.0\e_string_builder_replace.exe
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\bin\Debug\net9.0\e_string_builder_replace.deps.json
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\bin\Debug\net9.0\e_string_builder_replace.runtimeconfig.json
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\bin\Debug\net9.0\e_string_builder_replace.dll
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\bin\Debug\net9.0\e_string_builder_replace.pdb
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\e_string_builder_replace.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\e_string_builder_replace.AssemblyInfoInputs.cache
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\e_string_builder_replace.AssemblyInfo.cs
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\e_string_builder_replace.csproj.CoreCompileInputs.cache
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\e_string_builder_replace.sourcelink.json
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\e_string_builder_replace.dll
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\refint\e_string_builder_replace.dll
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\e_string_builder_replace.pdb
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\e_string_builder_replace.genruntimeconfig.cache
+D:\SCVPB6\V_String_Builder\e_string_builder_replace\obj\Debug\net9.0\ref\e_string_builder_replace.dll
