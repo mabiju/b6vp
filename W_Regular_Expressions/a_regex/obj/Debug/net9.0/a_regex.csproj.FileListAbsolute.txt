@@ -1,0 +1,15 @@
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\a_regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\a_regex.AssemblyInfoInputs.cache
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\a_regex.AssemblyInfo.cs
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\a_regex.csproj.CoreCompileInputs.cache
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\a_regex.sourcelink.json
+D:\SCVPB6\W_Regular_Expressions\a_regex\bin\Debug\net9.0\a_regex.exe
+D:\SCVPB6\W_Regular_Expressions\a_regex\bin\Debug\net9.0\a_regex.deps.json
+D:\SCVPB6\W_Regular_Expressions\a_regex\bin\Debug\net9.0\a_regex.runtimeconfig.json
+D:\SCVPB6\W_Regular_Expressions\a_regex\bin\Debug\net9.0\a_regex.dll
+D:\SCVPB6\W_Regular_Expressions\a_regex\bin\Debug\net9.0\a_regex.pdb
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\a_regex.dll
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\refint\a_regex.dll
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\a_regex.pdb
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\a_regex.genruntimeconfig.cache
+D:\SCVPB6\W_Regular_Expressions\a_regex\obj\Debug\net9.0\ref\a_regex.dll
