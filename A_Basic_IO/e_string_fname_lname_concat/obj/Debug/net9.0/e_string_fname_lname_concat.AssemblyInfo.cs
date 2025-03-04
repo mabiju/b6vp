@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("e_string_fname_lname_concat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2110afa54281c96ff5a472b65558be54c1a338d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e7b7bfd9f9531db8612a34602c4ab04a656e7c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("e_string_fname_lname_concat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("e_string_fname_lname_concat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
