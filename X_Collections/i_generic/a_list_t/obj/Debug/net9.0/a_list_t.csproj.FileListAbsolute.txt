@@ -1,0 +1,15 @@
+D:\SCVPB6\X_Collections\i_generic\a_list_t\bin\Debug\net9.0\a_list_t.exe
+D:\SCVPB6\X_Collections\i_generic\a_list_t\bin\Debug\net9.0\a_list_t.deps.json
+D:\SCVPB6\X_Collections\i_generic\a_list_t\bin\Debug\net9.0\a_list_t.runtimeconfig.json
+D:\SCVPB6\X_Collections\i_generic\a_list_t\bin\Debug\net9.0\a_list_t.dll
+D:\SCVPB6\X_Collections\i_generic\a_list_t\bin\Debug\net9.0\a_list_t.pdb
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\a_list_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\a_list_t.AssemblyInfoInputs.cache
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\a_list_t.AssemblyInfo.cs
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\a_list_t.csproj.CoreCompileInputs.cache
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\a_list_t.sourcelink.json
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\a_list_t.dll
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\refint\a_list_t.dll
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\a_list_t.pdb
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\a_list_t.genruntimeconfig.cache
+D:\SCVPB6\X_Collections\i_generic\a_list_t\obj\Debug\net9.0\ref\a_list_t.dll
