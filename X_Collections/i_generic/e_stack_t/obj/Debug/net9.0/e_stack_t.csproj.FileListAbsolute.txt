@@ -1,0 +1,15 @@
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\e_stack_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\e_stack_t.AssemblyInfoInputs.cache
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\e_stack_t.AssemblyInfo.cs
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\e_stack_t.csproj.CoreCompileInputs.cache
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\e_stack_t.sourcelink.json
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\bin\Debug\net9.0\e_stack_t.exe
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\bin\Debug\net9.0\e_stack_t.deps.json
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\bin\Debug\net9.0\e_stack_t.runtimeconfig.json
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\bin\Debug\net9.0\e_stack_t.dll
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\bin\Debug\net9.0\e_stack_t.pdb
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\e_stack_t.dll
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\refint\e_stack_t.dll
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\e_stack_t.pdb
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\e_stack_t.genruntimeconfig.cache
+D:\SCVPB6\X_Collections\i_generic\e_stack_t\obj\Debug\net9.0\ref\e_stack_t.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("b_class_object_data_members")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c05cececc91735cf5a46993b25a54ff5046b18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae10cc64e4d44724bcb41087e755f938d227b07")]
 [assembly: System.Reflection.AssemblyProductAttribute("b_class_object_data_members")]
 [assembly: System.Reflection.AssemblyTitleAttribute("b_class_object_data_members")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
