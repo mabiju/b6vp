@@ -1,0 +1,15 @@
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\bin\Debug\net9.0\b_hashtable.exe
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\bin\Debug\net9.0\b_hashtable.deps.json
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\bin\Debug\net9.0\b_hashtable.runtimeconfig.json
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\bin\Debug\net9.0\b_hashtable.dll
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\bin\Debug\net9.0\b_hashtable.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\b_hashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\b_hashtable.AssemblyInfoInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\b_hashtable.AssemblyInfo.cs
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\b_hashtable.csproj.CoreCompileInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\b_hashtable.sourcelink.json
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\b_hashtable.dll
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\refint\b_hashtable.dll
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\b_hashtable.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\b_hashtable.genruntimeconfig.cache
+D:\SCVPB6\X_Collections\ii_non_generic\b_hashtable\obj\Debug\net9.0\ref\b_hashtable.dll

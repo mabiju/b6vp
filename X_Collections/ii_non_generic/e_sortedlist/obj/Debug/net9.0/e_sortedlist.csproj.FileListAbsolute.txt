@@ -1,0 +1,15 @@
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\bin\Debug\net9.0\e_sortedlist.exe
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\bin\Debug\net9.0\e_sortedlist.deps.json
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\bin\Debug\net9.0\e_sortedlist.runtimeconfig.json
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\bin\Debug\net9.0\e_sortedlist.dll
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\bin\Debug\net9.0\e_sortedlist.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\e_sortedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\e_sortedlist.AssemblyInfoInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\e_sortedlist.AssemblyInfo.cs
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\e_sortedlist.csproj.CoreCompileInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\e_sortedlist.sourcelink.json
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\e_sortedlist.dll
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\refint\e_sortedlist.dll
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\e_sortedlist.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\e_sortedlist.genruntimeconfig.cache
+D:\SCVPB6\X_Collections\ii_non_generic\e_sortedlist\obj\Debug\net9.0\ref\e_sortedlist.dll

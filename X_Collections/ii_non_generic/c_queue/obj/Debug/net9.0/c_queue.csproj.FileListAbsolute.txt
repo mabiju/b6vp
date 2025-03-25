@@ -1,0 +1,15 @@
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\bin\Debug\net9.0\c_queue.exe
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\bin\Debug\net9.0\c_queue.deps.json
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\bin\Debug\net9.0\c_queue.runtimeconfig.json
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\bin\Debug\net9.0\c_queue.dll
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\bin\Debug\net9.0\c_queue.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\c_queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\c_queue.AssemblyInfoInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\c_queue.AssemblyInfo.cs
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\c_queue.csproj.CoreCompileInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\c_queue.sourcelink.json
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\c_queue.dll
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\refint\c_queue.dll
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\c_queue.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\c_queue.genruntimeconfig.cache
+D:\SCVPB6\X_Collections\ii_non_generic\c_queue\obj\Debug\net9.0\ref\c_queue.dll

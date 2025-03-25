@@ -1,0 +1,15 @@
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\bin\Debug\net9.0\f_bitarray.exe
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\bin\Debug\net9.0\f_bitarray.deps.json
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\bin\Debug\net9.0\f_bitarray.runtimeconfig.json
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\bin\Debug\net9.0\f_bitarray.dll
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\bin\Debug\net9.0\f_bitarray.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\f_bitarray.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\f_bitarray.AssemblyInfoInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\f_bitarray.AssemblyInfo.cs
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\f_bitarray.csproj.CoreCompileInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\f_bitarray.sourcelink.json
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\f_bitarray.dll
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\refint\f_bitarray.dll
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\f_bitarray.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\f_bitarray.genruntimeconfig.cache
+D:\SCVPB6\X_Collections\ii_non_generic\f_bitarray\obj\Debug\net9.0\ref\f_bitarray.dll

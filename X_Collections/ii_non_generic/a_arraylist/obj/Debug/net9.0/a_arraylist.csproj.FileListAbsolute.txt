@@ -1,0 +1,15 @@
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\bin\Debug\net9.0\a_arraylist.exe
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\bin\Debug\net9.0\a_arraylist.deps.json
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\bin\Debug\net9.0\a_arraylist.runtimeconfig.json
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\bin\Debug\net9.0\a_arraylist.dll
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\bin\Debug\net9.0\a_arraylist.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\a_arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\a_arraylist.AssemblyInfoInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\a_arraylist.AssemblyInfo.cs
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\a_arraylist.csproj.CoreCompileInputs.cache
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\a_arraylist.sourcelink.json
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\a_arraylist.dll
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\refint\a_arraylist.dll
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\a_arraylist.pdb
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\a_arraylist.genruntimeconfig.cache
+D:\SCVPB6\X_Collections\ii_non_generic\a_arraylist\obj\Debug\net9.0\ref\a_arraylist.dll

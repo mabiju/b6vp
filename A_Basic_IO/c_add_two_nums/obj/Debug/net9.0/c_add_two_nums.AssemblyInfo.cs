@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c_add_two_nums")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73dc8c2ebad753399dbaa5e4a1a8867a94b49fa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba900dad5a416ec75b8af556fff5d254a48b8386")]
 [assembly: System.Reflection.AssemblyProductAttribute("c_add_two_nums")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c_add_two_nums")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
