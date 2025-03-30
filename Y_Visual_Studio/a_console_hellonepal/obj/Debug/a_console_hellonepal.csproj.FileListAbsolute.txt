@@ -1,0 +1,7 @@
+D:\SCVPB6\Y_Visual_Studio\a_console_hellonepal\bin\Debug\a_console_hellonepal.exe.config
+D:\SCVPB6\Y_Visual_Studio\a_console_hellonepal\bin\Debug\a_console_hellonepal.exe
+D:\SCVPB6\Y_Visual_Studio\a_console_hellonepal\bin\Debug\a_console_hellonepal.pdb
+D:\SCVPB6\Y_Visual_Studio\a_console_hellonepal\obj\Debug\a_console_hellonepal.csproj.AssemblyReference.cache
+D:\SCVPB6\Y_Visual_Studio\a_console_hellonepal\obj\Debug\a_console_hellonepal.csproj.CoreCompileInputs.cache
+D:\SCVPB6\Y_Visual_Studio\a_console_hellonepal\obj\Debug\a_console_hellonepal.exe
+D:\SCVPB6\Y_Visual_Studio\a_console_hellonepal\obj\Debug\a_console_hellonepal.pdb
