@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SCVPB6\\Y_Visual_Studio\\d_console_ef_modelfirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A267B388-EB85-44F2-BA33-F1373754BD88}|d_console_ef_modelfirst.csproj|d:\\scvpb6\\y_visual_studio\\d_console_ef_modelfirst\\studentmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A267B388-EB85-44F2-BA33-F1373754BD88}|d_console_ef_modelfirst.csproj|solutionrelative:studentmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A267B388-EB85-44F2-BA33-F1373754BD88}|d_console_ef_modelfirst.csproj|d:\\scvpb6\\y_visual_studio\\d_console_ef_modelfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A267B388-EB85-44F2-BA33-F1373754BD88}|d_console_ef_modelfirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\SCVPB6\\Y_Visual_Studio\\d_console_ef_modelfirst\\StudentModel.edmx",
+              "RelativeDocumentMoniker": "StudentModel.edmx",
+              "ToolTip": "D:\\SCVPB6\\Y_Visual_Studio\\d_console_ef_modelfirst\\StudentModel.edmx [Diagram1]",
+              "RelativeToolTip": "StudentModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-07T02:16:56.046Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SCVPB6\\Y_Visual_Studio\\d_console_ef_modelfirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SCVPB6\\Y_Visual_Studio\\d_console_ef_modelfirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:12:26.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

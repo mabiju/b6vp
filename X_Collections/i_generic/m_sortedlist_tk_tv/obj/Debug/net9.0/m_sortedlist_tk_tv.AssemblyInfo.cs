@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("m_sortedlist_tk_tv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba900dad5a416ec75b8af556fff5d254a48b8386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd2e30ca6f3f3899dce86c711da5466feccd56f")]
 [assembly: System.Reflection.AssemblyProductAttribute("m_sortedlist_tk_tv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("m_sortedlist_tk_tv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

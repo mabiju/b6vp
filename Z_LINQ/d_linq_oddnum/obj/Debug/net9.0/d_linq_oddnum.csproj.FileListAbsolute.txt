@@ -1,0 +1,15 @@
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\bin\Debug\net9.0\d_linq_oddnum.exe
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\bin\Debug\net9.0\d_linq_oddnum.deps.json
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\bin\Debug\net9.0\d_linq_oddnum.runtimeconfig.json
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\bin\Debug\net9.0\d_linq_oddnum.dll
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\bin\Debug\net9.0\d_linq_oddnum.pdb
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\d_linq_oddnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\d_linq_oddnum.AssemblyInfoInputs.cache
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\d_linq_oddnum.AssemblyInfo.cs
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\d_linq_oddnum.csproj.CoreCompileInputs.cache
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\d_linq_oddnum.sourcelink.json
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\d_linq_oddnum.dll
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\refint\d_linq_oddnum.dll
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\d_linq_oddnum.pdb
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\d_linq_oddnum.genruntimeconfig.cache
+D:\SCVPB6\Z_LINQ\d_linq_oddnum\obj\Debug\net9.0\ref\d_linq_oddnum.dll

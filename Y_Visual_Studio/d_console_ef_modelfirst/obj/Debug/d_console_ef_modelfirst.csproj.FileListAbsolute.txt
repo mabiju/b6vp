@@ -1,0 +1,12 @@
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\bin\Debug\d_console_ef_modelfirst.exe.config
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\bin\Debug\d_console_ef_modelfirst.exe
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\bin\Debug\d_console_ef_modelfirst.pdb
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\bin\Debug\EntityFramework.dll
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\bin\Debug\EntityFramework.xml
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\obj\Debug\d_console_ef_modelfirst.csproj.AssemblyReference.cache
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\obj\Debug\d_console_ef_modelfirst.csproj.CoreCompileInputs.cache
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\obj\Debug\d_consol.67852537.Up2Date
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\obj\Debug\d_console_ef_modelfirst.exe
+D:\SCVPB6\Y_Visual_Studio\d_console_ef_modelfirst\obj\Debug\d_console_ef_modelfirst.pdb

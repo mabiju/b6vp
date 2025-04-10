@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="StudentModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="StudentModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Students" EntityType="StudentModel.Student" />
+    <EntitySet Name="Colleges" EntityType="StudentModel.College" />
+    <AssociationSet Name="StudentCollege" Association="StudentModel.StudentCollege">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="College" EntitySet="Colleges" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StuRoll" />
+    </Key>
+    <Property Name="StuRoll" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentName" Type="String" Nullable="false" />
+    <NavigationProperty Name="Colleges" Relationship="StudentModel.StudentCollege" FromRole="Student" ToRole="College" />
+  </EntityType>
+  <EntityType Name="College">
+    <Key>
+      <PropertyRef Name="CollegeId" />
+    </Key>
+    <Property Name="CollegeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CollegeName" Type="String" Nullable="false" />
+    <Property Name="CollegeAddress" Type="String" Nullable="false" />
+    <NavigationProperty Name="Student" Relationship="StudentModel.StudentCollege" FromRole="College" ToRole="Student" />
+    <Property Name="StudentStuRoll" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="StudentCollege">
+    <End Type="StudentModel.Student" Role="Student" Multiplicity="1" />
+    <End Type="StudentModel.College" Role="College" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="StuRoll" />
+      </Principal>
+      <Dependent Role="College">
+        <PropertyRef Name="StudentStuRoll" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudentModelStoreContainer" CdmEntityContainer="StudentModelContainer">
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="IsTypeOf(StudentModel.Student)">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="StuRoll" ColumnName="StuRoll" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Colleges">
+      <EntityTypeMapping TypeName="IsTypeOf(StudentModel.College)">
+        <MappingFragment StoreEntitySet="Colleges">
+          <ScalarProperty Name="CollegeId" ColumnName="CollegeId" />
+          <ScalarProperty Name="CollegeName" ColumnName="CollegeName" />
+          <ScalarProperty Name="CollegeAddress" ColumnName="CollegeAddress" />
+          <ScalarProperty Name="StudentStuRoll" ColumnName="StudentStuRoll" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

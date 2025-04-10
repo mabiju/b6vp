@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StudentModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="StudentModelStoreContainer">
+    <EntitySet Name="Students" EntityType="StudentModel.Store.Students" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Colleges" EntityType="StudentModel.Store.Colleges" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="StudentCollege" Association="StudentModel.Store.StudentCollege">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="College" EntitySet="Colleges" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="StuRoll" />
+    </Key>
+    <Property Name="StuRoll" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Colleges">
+    <Key>
+      <PropertyRef Name="CollegeId" />
+    </Key>
+    <Property Name="CollegeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CollegeName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CollegeAddress" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="StudentStuRoll" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="StudentCollege">
+    <End Role="Student" Type="StudentModel.Store.Students" Multiplicity="1" />
+    <End Role="College" Type="StudentModel.Store.Colleges" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="StuRoll" />
+      </Principal>
+      <Dependent Role="College">
+        <PropertyRef Name="StudentStuRoll" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("i_dictionary_tk_tv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+212cbc327ff3017c417c3a01f7cc7214696beb88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd2e30ca6f3f3899dce86c711da5466feccd56f")]
 [assembly: System.Reflection.AssemblyProductAttribute("i_dictionary_tk_tv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("i_dictionary_tk_tv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

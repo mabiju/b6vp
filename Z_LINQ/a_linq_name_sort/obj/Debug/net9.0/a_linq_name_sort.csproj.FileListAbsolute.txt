@@ -1,0 +1,15 @@
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\bin\Debug\net9.0\a_linq_name_sort.exe
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\bin\Debug\net9.0\a_linq_name_sort.deps.json
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\bin\Debug\net9.0\a_linq_name_sort.runtimeconfig.json
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\bin\Debug\net9.0\a_linq_name_sort.dll
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\bin\Debug\net9.0\a_linq_name_sort.pdb
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\a_linq_name_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\a_linq_name_sort.AssemblyInfoInputs.cache
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\a_linq_name_sort.AssemblyInfo.cs
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\a_linq_name_sort.csproj.CoreCompileInputs.cache
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\a_linq_name_sort.sourcelink.json
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\a_linq_name_sort.dll
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\refint\a_linq_name_sort.dll
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\a_linq_name_sort.pdb
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\a_linq_name_sort.genruntimeconfig.cache
+D:\SCVPB6\Z_LINQ\a_linq_name_sort\obj\Debug\net9.0\ref\a_linq_name_sort.dll
