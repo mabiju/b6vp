@@ -1,0 +1,15 @@
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net9.0\g_exception_user_defined_throw.exe
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net9.0\g_exception_user_defined_throw.deps.json
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net9.0\g_exception_user_defined_throw.runtimeconfig.json
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net9.0\g_exception_user_defined_throw.dll
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net9.0\g_exception_user_defined_throw.pdb
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\g_exception_user_defined_throw.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\g_exception_user_defined_throw.AssemblyInfoInputs.cache
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\g_exception_user_defined_throw.AssemblyInfo.cs
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\g_exception_user_defined_throw.csproj.CoreCompileInputs.cache
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\g_exception_user_defined_throw.sourcelink.json
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\g_exception_user_defined_throw.dll
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\refint\g_exception_user_defined_throw.dll
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\g_exception_user_defined_throw.pdb
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\g_exception_user_defined_throw.genruntimeconfig.cache
+D:\SCVPB6\ZA_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net9.0\ref\g_exception_user_defined_throw.dll

@@ -1,0 +1,15 @@
+D:\SCVPB6\ZB_Exception_Handling\c_exception\bin\Debug\net9.0\c_exception.exe
+D:\SCVPB6\ZB_Exception_Handling\c_exception\bin\Debug\net9.0\c_exception.deps.json
+D:\SCVPB6\ZB_Exception_Handling\c_exception\bin\Debug\net9.0\c_exception.runtimeconfig.json
+D:\SCVPB6\ZB_Exception_Handling\c_exception\bin\Debug\net9.0\c_exception.dll
+D:\SCVPB6\ZB_Exception_Handling\c_exception\bin\Debug\net9.0\c_exception.pdb
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\c_exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\c_exception.AssemblyInfoInputs.cache
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\c_exception.AssemblyInfo.cs
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\c_exception.csproj.CoreCompileInputs.cache
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\c_exception.sourcelink.json
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\c_exception.dll
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\refint\c_exception.dll
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\c_exception.pdb
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\c_exception.genruntimeconfig.cache
+D:\SCVPB6\ZB_Exception_Handling\c_exception\obj\Debug\net9.0\ref\c_exception.dll
