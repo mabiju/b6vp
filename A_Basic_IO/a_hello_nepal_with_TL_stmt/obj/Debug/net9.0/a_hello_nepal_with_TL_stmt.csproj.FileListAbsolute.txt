@@ -1,0 +1,14 @@
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\bin\Debug\net9.0\a_hello_nepal_with_TL_stmt.exe
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\bin\Debug\net9.0\a_hello_nepal_with_TL_stmt.deps.json
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\bin\Debug\net9.0\a_hello_nepal_with_TL_stmt.runtimeconfig.json
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\bin\Debug\net9.0\a_hello_nepal_with_TL_stmt.dll
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\bin\Debug\net9.0\a_hello_nepal_with_TL_stmt.pdb
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\a_hello_nepal_with_TL_stmt.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\a_hello_nepal_with_TL_stmt.AssemblyInfoInputs.cache
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\a_hello_nepal_with_TL_stmt.AssemblyInfo.cs
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\a_hello_nepal_with_TL_stmt.csproj.CoreCompileInputs.cache
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\a_hello_nepal_with_TL_stmt.dll
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\refint\a_hello_nepal_with_TL_stmt.dll
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\a_hello_nepal_with_TL_stmt.pdb
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\a_hello_nepal_with_TL_stmt.genruntimeconfig.cache
+D:\SCVPB6\A_Basic_IO\a_hello_nepal_with_TL_stmt\obj\Debug\net9.0\ref\a_hello_nepal_with_TL_stmt.dll

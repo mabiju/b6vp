@@ -1,0 +1,14 @@
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\bin\Debug\net9.0\b_hello_nepal_program_main.exe
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\bin\Debug\net9.0\b_hello_nepal_program_main.deps.json
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\bin\Debug\net9.0\b_hello_nepal_program_main.runtimeconfig.json
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\bin\Debug\net9.0\b_hello_nepal_program_main.dll
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\bin\Debug\net9.0\b_hello_nepal_program_main.pdb
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\b_hello_nepal_program_main.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\b_hello_nepal_program_main.AssemblyInfoInputs.cache
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\b_hello_nepal_program_main.AssemblyInfo.cs
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\b_hello_nepal_program_main.csproj.CoreCompileInputs.cache
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\b_hello_nepal_program_main.dll
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\refint\b_hello_nepal_program_main.dll
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\b_hello_nepal_program_main.pdb
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\b_hello_nepal_program_main.genruntimeconfig.cache
+D:\SCVPB6\A_Basic_IO\b_hello_nepal_program_main\obj\Debug\net9.0\ref\b_hello_nepal_program_main.dll
