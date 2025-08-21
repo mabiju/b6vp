@@ -1,0 +1,15 @@
+D:\SCVPB6\D_Control_Statements\o_return_add\bin\Debug\net9.0\o_return_add.exe
+D:\SCVPB6\D_Control_Statements\o_return_add\bin\Debug\net9.0\o_return_add.deps.json
+D:\SCVPB6\D_Control_Statements\o_return_add\bin\Debug\net9.0\o_return_add.runtimeconfig.json
+D:\SCVPB6\D_Control_Statements\o_return_add\bin\Debug\net9.0\o_return_add.dll
+D:\SCVPB6\D_Control_Statements\o_return_add\bin\Debug\net9.0\o_return_add.pdb
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\o_return_add.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\o_return_add.AssemblyInfoInputs.cache
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\o_return_add.AssemblyInfo.cs
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\o_return_add.csproj.CoreCompileInputs.cache
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\o_return_add.sourcelink.json
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\o_return_add.dll
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\refint\o_return_add.dll
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\o_return_add.pdb
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\o_return_add.genruntimeconfig.cache
+D:\SCVPB6\D_Control_Statements\o_return_add\obj\Debug\net9.0\ref\o_return_add.dll

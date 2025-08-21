@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "d_value_type_byte_signed/1.0.0": {
+        "runtime": {
+          "d_value_type_byte_signed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d_value_type_byte_signed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

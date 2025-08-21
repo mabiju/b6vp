@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "d_add_user_input_two_nums/1.0.0": {
+        "runtime": {
+          "d_add_user_input_two_nums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d_add_user_input_two_nums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

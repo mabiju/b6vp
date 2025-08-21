@@ -1,0 +1,15 @@
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\bin\Debug\net9.0\e_string_fname_lname_concat.exe
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\bin\Debug\net9.0\e_string_fname_lname_concat.deps.json
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\bin\Debug\net9.0\e_string_fname_lname_concat.runtimeconfig.json
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\bin\Debug\net9.0\e_string_fname_lname_concat.dll
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\bin\Debug\net9.0\e_string_fname_lname_concat.pdb
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\e_string_fname_lname_concat.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\e_string_fname_lname_concat.AssemblyInfoInputs.cache
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\e_string_fname_lname_concat.AssemblyInfo.cs
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\e_string_fname_lname_concat.csproj.CoreCompileInputs.cache
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\e_string_fname_lname_concat.sourcelink.json
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\e_string_fname_lname_concat.dll
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\refint\e_string_fname_lname_concat.dll
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\e_string_fname_lname_concat.pdb
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\e_string_fname_lname_concat.genruntimeconfig.cache
+D:\SCVPB6\A_Basic_IO\e_string_fname_lname_concat\obj\Debug\net9.0\ref\e_string_fname_lname_concat.dll

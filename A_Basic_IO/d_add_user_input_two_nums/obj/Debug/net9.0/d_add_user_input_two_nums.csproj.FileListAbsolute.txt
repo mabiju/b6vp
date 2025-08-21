@@ -1,0 +1,15 @@
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\bin\Debug\net9.0\d_add_user_input_two_nums.exe
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\bin\Debug\net9.0\d_add_user_input_two_nums.deps.json
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\bin\Debug\net9.0\d_add_user_input_two_nums.runtimeconfig.json
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\bin\Debug\net9.0\d_add_user_input_two_nums.dll
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\bin\Debug\net9.0\d_add_user_input_two_nums.pdb
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\d_add_user_input_two_nums.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\d_add_user_input_two_nums.AssemblyInfoInputs.cache
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\d_add_user_input_two_nums.AssemblyInfo.cs
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\d_add_user_input_two_nums.csproj.CoreCompileInputs.cache
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\d_add_user_input_two_nums.sourcelink.json
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\d_add_user_input_two_nums.dll
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\refint\d_add_user_input_two_nums.dll
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\d_add_user_input_two_nums.pdb
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\d_add_user_input_two_nums.genruntimeconfig.cache
+D:\SCVPB6\A_Basic_IO\d_add_user_input_two_nums\obj\Debug\net9.0\ref\d_add_user_input_two_nums.dll

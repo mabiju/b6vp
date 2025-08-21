@@ -1,0 +1,21 @@
+Control Statement
+1. If Block
+	. if (+ve)
+	. if else (+ve,-ve)
+	. if else if .... else (Division)
+	. nested if (+ve, -ve, Zero)
+2. Switch
+	. integer (Weekday)
+	. string (Full form upto letter e)
+	. symbol (MENU operation : +,-*,/)
+3. Loop
+	. do while ( 1 to 10)
+	. while (20,18, ......2)
+	. for ( 2,4,6,8 ......50)
+	. foreach
+4. Break (Loop : 1-10, Display : 1-4)
+5. Continue (1,2,3,4,6,7,8,9,10)
+6. Return adding nums
+7. Goto statements
+	
+	

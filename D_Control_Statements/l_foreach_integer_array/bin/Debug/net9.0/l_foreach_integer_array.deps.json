@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "l_foreach_integer_array/1.0.0": {
+        "runtime": {
+          "l_foreach_integer_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "l_foreach_integer_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

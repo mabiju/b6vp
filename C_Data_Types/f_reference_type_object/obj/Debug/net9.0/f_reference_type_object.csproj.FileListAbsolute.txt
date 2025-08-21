@@ -1,0 +1,15 @@
+D:\SCVPB6\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.exe
+D:\SCVPB6\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.deps.json
+D:\SCVPB6\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.runtimeconfig.json
+D:\SCVPB6\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.dll
+D:\SCVPB6\C_Data_Types\f_reference_type_object\bin\Debug\net9.0\f_reference_type_object.pdb
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.AssemblyInfoInputs.cache
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.AssemblyInfo.cs
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.csproj.CoreCompileInputs.cache
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.sourcelink.json
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.dll
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\refint\f_reference_type_object.dll
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.pdb
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\f_reference_type_object.genruntimeconfig.cache
+D:\SCVPB6\C_Data_Types\f_reference_type_object\obj\Debug\net9.0\ref\f_reference_type_object.dll

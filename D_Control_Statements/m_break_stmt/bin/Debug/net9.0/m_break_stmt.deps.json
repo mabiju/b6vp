@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "m_break_stmt/1.0.0": {
+        "runtime": {
+          "m_break_stmt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "m_break_stmt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

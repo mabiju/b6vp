@@ -1,0 +1,15 @@
+D:\SCVPB6\C_Data_Types\c_value_type_byte\bin\Debug\net9.0\c_value_type_byte.exe
+D:\SCVPB6\C_Data_Types\c_value_type_byte\bin\Debug\net9.0\c_value_type_byte.deps.json
+D:\SCVPB6\C_Data_Types\c_value_type_byte\bin\Debug\net9.0\c_value_type_byte.runtimeconfig.json
+D:\SCVPB6\C_Data_Types\c_value_type_byte\bin\Debug\net9.0\c_value_type_byte.dll
+D:\SCVPB6\C_Data_Types\c_value_type_byte\bin\Debug\net9.0\c_value_type_byte.pdb
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\c_value_type_byte.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\c_value_type_byte.AssemblyInfoInputs.cache
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\c_value_type_byte.AssemblyInfo.cs
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\c_value_type_byte.csproj.CoreCompileInputs.cache
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\c_value_type_byte.sourcelink.json
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\c_value_type_byte.dll
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\refint\c_value_type_byte.dll
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\c_value_type_byte.pdb
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\c_value_type_byte.genruntimeconfig.cache
+D:\SCVPB6\C_Data_Types\c_value_type_byte\obj\Debug\net9.0\ref\c_value_type_byte.dll

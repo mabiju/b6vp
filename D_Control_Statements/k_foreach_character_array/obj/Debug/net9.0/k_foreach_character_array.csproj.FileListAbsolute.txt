@@ -1,0 +1,15 @@
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\bin\Debug\net9.0\k_foreach_character_array.exe
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\bin\Debug\net9.0\k_foreach_character_array.deps.json
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\bin\Debug\net9.0\k_foreach_character_array.runtimeconfig.json
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\bin\Debug\net9.0\k_foreach_character_array.dll
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\bin\Debug\net9.0\k_foreach_character_array.pdb
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\k_foreach_character_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\k_foreach_character_array.AssemblyInfoInputs.cache
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\k_foreach_character_array.AssemblyInfo.cs
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\k_foreach_character_array.csproj.CoreCompileInputs.cache
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\k_foreach_character_array.sourcelink.json
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\k_foreach_character_array.dll
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\refint\k_foreach_character_array.dll
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\k_foreach_character_array.pdb
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\k_foreach_character_array.genruntimeconfig.cache
+D:\SCVPB6\D_Control_Statements\k_foreach_character_array\obj\Debug\net9.0\ref\k_foreach_character_array.dll

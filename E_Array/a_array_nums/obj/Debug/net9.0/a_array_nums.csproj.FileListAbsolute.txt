@@ -1,0 +1,15 @@
+D:\SCVPB6\E_Array\a_array_nums\bin\Debug\net9.0\a_array_nums.exe
+D:\SCVPB6\E_Array\a_array_nums\bin\Debug\net9.0\a_array_nums.deps.json
+D:\SCVPB6\E_Array\a_array_nums\bin\Debug\net9.0\a_array_nums.runtimeconfig.json
+D:\SCVPB6\E_Array\a_array_nums\bin\Debug\net9.0\a_array_nums.dll
+D:\SCVPB6\E_Array\a_array_nums\bin\Debug\net9.0\a_array_nums.pdb
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\a_array_nums.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\a_array_nums.AssemblyInfoInputs.cache
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\a_array_nums.AssemblyInfo.cs
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\a_array_nums.csproj.CoreCompileInputs.cache
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\a_array_nums.sourcelink.json
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\a_array_nums.dll
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\refint\a_array_nums.dll
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\a_array_nums.pdb
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\a_array_nums.genruntimeconfig.cache
+D:\SCVPB6\E_Array\a_array_nums\obj\Debug\net9.0\ref\a_array_nums.dll

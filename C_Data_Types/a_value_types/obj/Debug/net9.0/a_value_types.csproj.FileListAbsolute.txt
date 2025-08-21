@@ -1,0 +1,15 @@
+D:\SCVPB6\C_Data_Types\a_value_types\bin\Debug\net9.0\a_value_types.exe
+D:\SCVPB6\C_Data_Types\a_value_types\bin\Debug\net9.0\a_value_types.deps.json
+D:\SCVPB6\C_Data_Types\a_value_types\bin\Debug\net9.0\a_value_types.runtimeconfig.json
+D:\SCVPB6\C_Data_Types\a_value_types\bin\Debug\net9.0\a_value_types.dll
+D:\SCVPB6\C_Data_Types\a_value_types\bin\Debug\net9.0\a_value_types.pdb
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\a_value_types.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\a_value_types.AssemblyInfoInputs.cache
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\a_value_types.AssemblyInfo.cs
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\a_value_types.csproj.CoreCompileInputs.cache
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\a_value_types.sourcelink.json
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\a_value_types.dll
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\refint\a_value_types.dll
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\a_value_types.pdb
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\a_value_types.genruntimeconfig.cache
+D:\SCVPB6\C_Data_Types\a_value_types\obj\Debug\net9.0\ref\a_value_types.dll
