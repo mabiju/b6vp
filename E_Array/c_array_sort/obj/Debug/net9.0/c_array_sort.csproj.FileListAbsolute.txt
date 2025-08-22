@@ -1,0 +1,15 @@
+D:\SCVPB6\E_Array\c_array_sort\bin\Debug\net9.0\c_array_sort.exe
+D:\SCVPB6\E_Array\c_array_sort\bin\Debug\net9.0\c_array_sort.deps.json
+D:\SCVPB6\E_Array\c_array_sort\bin\Debug\net9.0\c_array_sort.runtimeconfig.json
+D:\SCVPB6\E_Array\c_array_sort\bin\Debug\net9.0\c_array_sort.dll
+D:\SCVPB6\E_Array\c_array_sort\bin\Debug\net9.0\c_array_sort.pdb
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\c_array_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\c_array_sort.AssemblyInfoInputs.cache
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\c_array_sort.AssemblyInfo.cs
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\c_array_sort.csproj.CoreCompileInputs.cache
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\c_array_sort.sourcelink.json
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\c_array_sort.dll
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\refint\c_array_sort.dll
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\c_array_sort.pdb
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\c_array_sort.genruntimeconfig.cache
+D:\SCVPB6\E_Array\c_array_sort\obj\Debug\net9.0\ref\c_array_sort.dll
