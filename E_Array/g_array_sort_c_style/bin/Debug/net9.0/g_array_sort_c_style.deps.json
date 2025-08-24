@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "g_array_sort_c_style/1.0.0": {
+        "runtime": {
+          "g_array_sort_c_style.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "g_array_sort_c_style/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

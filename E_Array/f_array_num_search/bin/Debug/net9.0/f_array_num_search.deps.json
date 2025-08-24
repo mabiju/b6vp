@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "f_array_num_search/1.0.0": {
+        "runtime": {
+          "f_array_num_search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f_array_num_search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
