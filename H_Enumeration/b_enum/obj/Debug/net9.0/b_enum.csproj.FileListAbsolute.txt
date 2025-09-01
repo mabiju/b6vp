@@ -1,0 +1,15 @@
+D:\SCVPB6\H_Enumeration\b_enum\bin\Debug\net9.0\b_enum.exe
+D:\SCVPB6\H_Enumeration\b_enum\bin\Debug\net9.0\b_enum.deps.json
+D:\SCVPB6\H_Enumeration\b_enum\bin\Debug\net9.0\b_enum.runtimeconfig.json
+D:\SCVPB6\H_Enumeration\b_enum\bin\Debug\net9.0\b_enum.dll
+D:\SCVPB6\H_Enumeration\b_enum\bin\Debug\net9.0\b_enum.pdb
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\b_enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\b_enum.AssemblyInfoInputs.cache
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\b_enum.AssemblyInfo.cs
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\b_enum.csproj.CoreCompileInputs.cache
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\b_enum.sourcelink.json
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\b_enum.dll
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\refint\b_enum.dll
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\b_enum.pdb
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\b_enum.genruntimeconfig.cache
+D:\SCVPB6\H_Enumeration\b_enum\obj\Debug\net9.0\ref\b_enum.dll

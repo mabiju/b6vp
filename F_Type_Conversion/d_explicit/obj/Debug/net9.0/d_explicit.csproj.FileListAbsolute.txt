@@ -1,0 +1,15 @@
+D:\SCVPB6\F_Type_Conversion\d_explicit\bin\Debug\net9.0\d_explicit.exe
+D:\SCVPB6\F_Type_Conversion\d_explicit\bin\Debug\net9.0\d_explicit.deps.json
+D:\SCVPB6\F_Type_Conversion\d_explicit\bin\Debug\net9.0\d_explicit.runtimeconfig.json
+D:\SCVPB6\F_Type_Conversion\d_explicit\bin\Debug\net9.0\d_explicit.dll
+D:\SCVPB6\F_Type_Conversion\d_explicit\bin\Debug\net9.0\d_explicit.pdb
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\d_explicit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\d_explicit.AssemblyInfoInputs.cache
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\d_explicit.AssemblyInfo.cs
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\d_explicit.csproj.CoreCompileInputs.cache
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\d_explicit.sourcelink.json
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\d_explicit.dll
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\refint\d_explicit.dll
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\d_explicit.pdb
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\d_explicit.genruntimeconfig.cache
+D:\SCVPB6\F_Type_Conversion\d_explicit\obj\Debug\net9.0\ref\d_explicit.dll

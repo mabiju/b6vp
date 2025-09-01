@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "j_array_multidimensional_jagged/1.0.0": {
+        "runtime": {
+          "j_array_multidimensional_jagged.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "j_array_multidimensional_jagged/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
