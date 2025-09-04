@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "f_constructor_overloading_diff_no_of_paras/1.0.0": {
+        "runtime": {
+          "f_constructor_overloading_diff_no_of_paras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f_constructor_overloading_diff_no_of_paras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "g_constructor_overloading_by_changing_order_of_parameter/1.0.0": {
+        "runtime": {
+          "g_constructor_overloading_by_changing_order_of_parameter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "g_constructor_overloading_by_changing_order_of_parameter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

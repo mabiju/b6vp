@@ -1,0 +1,15 @@
+D:\SCVPB6\L_Sealed_Class\a_sealed\bin\Debug\net9.0\a_sealed.exe
+D:\SCVPB6\L_Sealed_Class\a_sealed\bin\Debug\net9.0\a_sealed.deps.json
+D:\SCVPB6\L_Sealed_Class\a_sealed\bin\Debug\net9.0\a_sealed.runtimeconfig.json
+D:\SCVPB6\L_Sealed_Class\a_sealed\bin\Debug\net9.0\a_sealed.dll
+D:\SCVPB6\L_Sealed_Class\a_sealed\bin\Debug\net9.0\a_sealed.pdb
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\a_sealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\a_sealed.AssemblyInfoInputs.cache
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\a_sealed.AssemblyInfo.cs
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\a_sealed.csproj.CoreCompileInputs.cache
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\a_sealed.sourcelink.json
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\a_sealed.dll
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\refint\a_sealed.dll
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\a_sealed.pdb
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\a_sealed.genruntimeconfig.cache
+D:\SCVPB6\L_Sealed_Class\a_sealed\obj\Debug\net9.0\ref\a_sealed.dll

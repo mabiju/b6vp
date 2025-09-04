@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "c_method_overloading_by_using_diff_sequence_of_para/1.0.0": {
+        "runtime": {
+          "c_method_overloading_by_using_diff_sequence_of_para.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c_method_overloading_by_using_diff_sequence_of_para/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
