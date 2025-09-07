@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\K_Inheritance\\c_multilevel_inheritance\\c_multilevel_inheritance.csproj": {}
+    "D:\\B6_VP\\K_Inheritance\\c_multilevel_inheritance\\c_multilevel_inheritance.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\K_Inheritance\\c_multilevel_inheritance\\c_multilevel_inheritance.csproj": {
+    "D:\\B6_VP\\K_Inheritance\\c_multilevel_inheritance\\c_multilevel_inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\K_Inheritance\\c_multilevel_inheritance\\c_multilevel_inheritance.csproj",
+        "projectUniqueName": "D:\\B6_VP\\K_Inheritance\\c_multilevel_inheritance\\c_multilevel_inheritance.csproj",
         "projectName": "c_multilevel_inheritance",
-        "projectPath": "D:\\SCVPB6\\K_Inheritance\\c_multilevel_inheritance\\c_multilevel_inheritance.csproj",
+        "projectPath": "D:\\B6_VP\\K_Inheritance\\c_multilevel_inheritance\\c_multilevel_inheritance.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\K_Inheritance\\c_multilevel_inheritance\\obj\\",
+        "outputPath": "D:\\B6_VP\\K_Inheritance\\c_multilevel_inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SCVPB6\\E_Array\\a_array_nums\\a_array_nums.csproj",
+      "projectUniqueName": "D:\\B6_VP\\E_Array\\a_array_nums\\a_array_nums.csproj",
       "projectName": "a_array_nums",
-      "projectPath": "D:\\SCVPB6\\E_Array\\a_array_nums\\a_array_nums.csproj",
+      "projectPath": "D:\\B6_VP\\E_Array\\a_array_nums\\a_array_nums.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\SCVPB6\\E_Array\\a_array_nums\\obj\\",
+      "outputPath": "D:\\B6_VP\\E_Array\\a_array_nums\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

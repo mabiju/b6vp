@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\H_Enumeration\\a_enum\\a_enum.csproj": {}
+    "D:\\B6_VP\\H_Enumeration\\a_enum\\a_enum.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\H_Enumeration\\a_enum\\a_enum.csproj": {
+    "D:\\B6_VP\\H_Enumeration\\a_enum\\a_enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\H_Enumeration\\a_enum\\a_enum.csproj",
+        "projectUniqueName": "D:\\B6_VP\\H_Enumeration\\a_enum\\a_enum.csproj",
         "projectName": "a_enum",
-        "projectPath": "D:\\SCVPB6\\H_Enumeration\\a_enum\\a_enum.csproj",
+        "projectPath": "D:\\B6_VP\\H_Enumeration\\a_enum\\a_enum.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\H_Enumeration\\a_enum\\obj\\",
+        "outputPath": "D:\\B6_VP\\H_Enumeration\\a_enum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\L_Sealed_Class\\a_sealed\\a_sealed.csproj": {}
+    "D:\\B6_VP\\L_Sealed_Class\\a_sealed\\a_sealed.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\L_Sealed_Class\\a_sealed\\a_sealed.csproj": {
+    "D:\\B6_VP\\L_Sealed_Class\\a_sealed\\a_sealed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\L_Sealed_Class\\a_sealed\\a_sealed.csproj",
+        "projectUniqueName": "D:\\B6_VP\\L_Sealed_Class\\a_sealed\\a_sealed.csproj",
         "projectName": "a_sealed",
-        "projectPath": "D:\\SCVPB6\\L_Sealed_Class\\a_sealed\\a_sealed.csproj",
+        "projectPath": "D:\\B6_VP\\L_Sealed_Class\\a_sealed\\a_sealed.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\L_Sealed_Class\\a_sealed\\obj\\",
+        "outputPath": "D:\\B6_VP\\L_Sealed_Class\\a_sealed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

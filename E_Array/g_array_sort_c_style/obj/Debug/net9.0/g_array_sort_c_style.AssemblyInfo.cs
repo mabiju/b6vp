@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("g_array_sort_c_style")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98b5868cd7ac5ec98e7594beee42a10a12507375")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0773a868d32f77815302132ca64da5f5dfb50995")]
 [assembly: System.Reflection.AssemblyProductAttribute("g_array_sort_c_style")]
 [assembly: System.Reflection.AssemblyTitleAttribute("g_array_sort_c_style")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

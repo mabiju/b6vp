@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SCVPB6\\K_Inheritance\\h_single_accessing_parent_method\\h_single_accessing_parent_method.csproj",
+      "projectUniqueName": "D:\\B6_VP\\K_Inheritance\\h_single_accessing_parent_method\\h_single_accessing_parent_method.csproj",
       "projectName": "h_single_accessing_parent_method",
-      "projectPath": "D:\\SCVPB6\\K_Inheritance\\h_single_accessing_parent_method\\h_single_accessing_parent_method.csproj",
+      "projectPath": "D:\\B6_VP\\K_Inheritance\\h_single_accessing_parent_method\\h_single_accessing_parent_method.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\SCVPB6\\K_Inheritance\\h_single_accessing_parent_method\\obj\\",
+      "outputPath": "D:\\B6_VP\\K_Inheritance\\h_single_accessing_parent_method\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

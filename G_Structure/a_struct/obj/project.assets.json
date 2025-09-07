@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SCVPB6\\G_Structure\\a_struct\\a_struct.csproj",
+      "projectUniqueName": "D:\\B6_VP\\G_Structure\\a_struct\\a_struct.csproj",
       "projectName": "a_struct",
-      "projectPath": "D:\\SCVPB6\\G_Structure\\a_struct\\a_struct.csproj",
+      "projectPath": "D:\\B6_VP\\G_Structure\\a_struct\\a_struct.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\SCVPB6\\G_Structure\\a_struct\\obj\\",
+      "outputPath": "D:\\B6_VP\\G_Structure\\a_struct\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

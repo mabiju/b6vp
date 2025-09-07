@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SCVPB6\\K_Inheritance\\b_single_inheritance_constructor\\b_single_inheritance_constructor.csproj",
+      "projectUniqueName": "D:\\B6_VP\\K_Inheritance\\b_single_inheritance_constructor\\b_single_inheritance_constructor.csproj",
       "projectName": "b_single_inheritance_constructor",
-      "projectPath": "D:\\SCVPB6\\K_Inheritance\\b_single_inheritance_constructor\\b_single_inheritance_constructor.csproj",
+      "projectPath": "D:\\B6_VP\\K_Inheritance\\b_single_inheritance_constructor\\b_single_inheritance_constructor.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\SCVPB6\\K_Inheritance\\b_single_inheritance_constructor\\obj\\",
+      "outputPath": "D:\\B6_VP\\K_Inheritance\\b_single_inheritance_constructor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

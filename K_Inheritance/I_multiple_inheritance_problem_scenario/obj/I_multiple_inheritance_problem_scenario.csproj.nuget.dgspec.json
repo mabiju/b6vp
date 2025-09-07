@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\I_multiple_inheritance_problem_scenario.csproj": {}
+    "D:\\B6_VP\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\I_multiple_inheritance_problem_scenario.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\I_multiple_inheritance_problem_scenario.csproj": {
+    "D:\\B6_VP\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\I_multiple_inheritance_problem_scenario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\I_multiple_inheritance_problem_scenario.csproj",
+        "projectUniqueName": "D:\\B6_VP\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\I_multiple_inheritance_problem_scenario.csproj",
         "projectName": "I_multiple_inheritance_problem_scenario",
-        "projectPath": "D:\\SCVPB6\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\I_multiple_inheritance_problem_scenario.csproj",
+        "projectPath": "D:\\B6_VP\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\I_multiple_inheritance_problem_scenario.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\obj\\",
+        "outputPath": "D:\\B6_VP\\K_Inheritance\\I_multiple_inheritance_problem_scenario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

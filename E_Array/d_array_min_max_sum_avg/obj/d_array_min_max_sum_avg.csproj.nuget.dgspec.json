@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\E_Array\\d_array_min_max_sum_avg\\d_array_min_max_sum_avg.csproj": {}
+    "D:\\B6_VP\\E_Array\\d_array_min_max_sum_avg\\d_array_min_max_sum_avg.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\E_Array\\d_array_min_max_sum_avg\\d_array_min_max_sum_avg.csproj": {
+    "D:\\B6_VP\\E_Array\\d_array_min_max_sum_avg\\d_array_min_max_sum_avg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\E_Array\\d_array_min_max_sum_avg\\d_array_min_max_sum_avg.csproj",
+        "projectUniqueName": "D:\\B6_VP\\E_Array\\d_array_min_max_sum_avg\\d_array_min_max_sum_avg.csproj",
         "projectName": "d_array_min_max_sum_avg",
-        "projectPath": "D:\\SCVPB6\\E_Array\\d_array_min_max_sum_avg\\d_array_min_max_sum_avg.csproj",
+        "projectPath": "D:\\B6_VP\\E_Array\\d_array_min_max_sum_avg\\d_array_min_max_sum_avg.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\E_Array\\d_array_min_max_sum_avg\\obj\\",
+        "outputPath": "D:\\B6_VP\\E_Array\\d_array_min_max_sum_avg\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

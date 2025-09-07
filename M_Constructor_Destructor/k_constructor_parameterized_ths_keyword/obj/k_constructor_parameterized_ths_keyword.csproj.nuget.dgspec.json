@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\k_constructor_parameterized_ths_keyword.csproj": {}
+    "D:\\B6_VP\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\k_constructor_parameterized_ths_keyword.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\k_constructor_parameterized_ths_keyword.csproj": {
+    "D:\\B6_VP\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\k_constructor_parameterized_ths_keyword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\k_constructor_parameterized_ths_keyword.csproj",
+        "projectUniqueName": "D:\\B6_VP\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\k_constructor_parameterized_ths_keyword.csproj",
         "projectName": "k_constructor_parameterized_ths_keyword",
-        "projectPath": "D:\\SCVPB6\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\k_constructor_parameterized_ths_keyword.csproj",
+        "projectPath": "D:\\B6_VP\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\k_constructor_parameterized_ths_keyword.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\obj\\",
+        "outputPath": "D:\\B6_VP\\M_Constructor_Destructor\\k_constructor_parameterized_ths_keyword\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\M_Constructor_Destructor\\e_constructor\\e_constructor.csproj": {}
+    "D:\\B6_VP\\M_Constructor_Destructor\\e_constructor\\e_constructor.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\M_Constructor_Destructor\\e_constructor\\e_constructor.csproj": {
+    "D:\\B6_VP\\M_Constructor_Destructor\\e_constructor\\e_constructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\M_Constructor_Destructor\\e_constructor\\e_constructor.csproj",
+        "projectUniqueName": "D:\\B6_VP\\M_Constructor_Destructor\\e_constructor\\e_constructor.csproj",
         "projectName": "e_constructor",
-        "projectPath": "D:\\SCVPB6\\M_Constructor_Destructor\\e_constructor\\e_constructor.csproj",
+        "projectPath": "D:\\B6_VP\\M_Constructor_Destructor\\e_constructor\\e_constructor.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\M_Constructor_Destructor\\e_constructor\\obj\\",
+        "outputPath": "D:\\B6_VP\\M_Constructor_Destructor\\e_constructor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

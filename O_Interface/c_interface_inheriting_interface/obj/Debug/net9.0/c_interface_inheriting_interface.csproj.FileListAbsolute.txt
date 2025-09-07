@@ -1,0 +1,15 @@
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\bin\Debug\net9.0\c_interface_inheriting_interface.exe
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\bin\Debug\net9.0\c_interface_inheriting_interface.deps.json
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\bin\Debug\net9.0\c_interface_inheriting_interface.runtimeconfig.json
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\bin\Debug\net9.0\c_interface_inheriting_interface.dll
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\bin\Debug\net9.0\c_interface_inheriting_interface.pdb
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\c_interface_inheriting_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\c_interface_inheriting_interface.AssemblyInfoInputs.cache
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\c_interface_inheriting_interface.AssemblyInfo.cs
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\c_interface_inheriting_interface.csproj.CoreCompileInputs.cache
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\c_interface_inheriting_interface.sourcelink.json
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\c_interface_inheriting_interface.dll
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\refint\c_interface_inheriting_interface.dll
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\c_interface_inheriting_interface.pdb
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\c_interface_inheriting_interface.genruntimeconfig.cache
+D:\B6_VP\O_Interface\c_interface_inheriting_interface\obj\Debug\net9.0\ref\c_interface_inheriting_interface.dll

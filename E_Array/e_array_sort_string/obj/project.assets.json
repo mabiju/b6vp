@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SCVPB6\\E_Array\\e_array_sort_string\\e_array_sort_string.csproj",
+      "projectUniqueName": "D:\\B6_VP\\E_Array\\e_array_sort_string\\e_array_sort_string.csproj",
       "projectName": "e_array_sort_string",
-      "projectPath": "D:\\SCVPB6\\E_Array\\e_array_sort_string\\e_array_sort_string.csproj",
+      "projectPath": "D:\\B6_VP\\E_Array\\e_array_sort_string\\e_array_sort_string.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\SCVPB6\\E_Array\\e_array_sort_string\\obj\\",
+      "outputPath": "D:\\B6_VP\\E_Array\\e_array_sort_string\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

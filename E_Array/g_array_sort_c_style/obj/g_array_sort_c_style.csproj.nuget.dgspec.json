@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\E_Array\\g_array_sort_c_style\\g_array_sort_c_style.csproj": {}
+    "D:\\B6_VP\\E_Array\\g_array_sort_c_style\\g_array_sort_c_style.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\E_Array\\g_array_sort_c_style\\g_array_sort_c_style.csproj": {
+    "D:\\B6_VP\\E_Array\\g_array_sort_c_style\\g_array_sort_c_style.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\E_Array\\g_array_sort_c_style\\g_array_sort_c_style.csproj",
+        "projectUniqueName": "D:\\B6_VP\\E_Array\\g_array_sort_c_style\\g_array_sort_c_style.csproj",
         "projectName": "g_array_sort_c_style",
-        "projectPath": "D:\\SCVPB6\\E_Array\\g_array_sort_c_style\\g_array_sort_c_style.csproj",
+        "projectPath": "D:\\B6_VP\\E_Array\\g_array_sort_c_style\\g_array_sort_c_style.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\E_Array\\g_array_sort_c_style\\obj\\",
+        "outputPath": "D:\\B6_VP\\E_Array\\g_array_sort_c_style\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

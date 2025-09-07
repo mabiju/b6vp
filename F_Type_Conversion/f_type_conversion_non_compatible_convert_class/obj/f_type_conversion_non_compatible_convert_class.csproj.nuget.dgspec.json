@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\f_type_conversion_non_compatible_convert_class.csproj": {}
+    "D:\\B6_VP\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\f_type_conversion_non_compatible_convert_class.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\f_type_conversion_non_compatible_convert_class.csproj": {
+    "D:\\B6_VP\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\f_type_conversion_non_compatible_convert_class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\f_type_conversion_non_compatible_convert_class.csproj",
+        "projectUniqueName": "D:\\B6_VP\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\f_type_conversion_non_compatible_convert_class.csproj",
         "projectName": "f_type_conversion_non_compatible_convert_class",
-        "projectPath": "D:\\SCVPB6\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\f_type_conversion_non_compatible_convert_class.csproj",
+        "projectPath": "D:\\B6_VP\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\f_type_conversion_non_compatible_convert_class.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\obj\\",
+        "outputPath": "D:\\B6_VP\\F_Type_Conversion\\f_type_conversion_non_compatible_convert_class\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

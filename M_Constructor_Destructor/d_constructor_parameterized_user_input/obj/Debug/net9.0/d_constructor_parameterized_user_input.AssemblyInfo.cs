@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d_constructor_parameterized_user_input")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12f90707a500789b49775fd9efa955256d194744")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0773a868d32f77815302132ca64da5f5dfb50995")]
 [assembly: System.Reflection.AssemblyProductAttribute("d_constructor_parameterized_user_input")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d_constructor_parameterized_user_input")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

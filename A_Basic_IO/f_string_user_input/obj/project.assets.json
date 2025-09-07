@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SCVPB6\\A_Basic_IO\\f_string_user_input\\f_string_user_input.csproj",
+      "projectUniqueName": "D:\\B6_VP\\A_Basic_IO\\f_string_user_input\\f_string_user_input.csproj",
       "projectName": "f_string_user_input",
-      "projectPath": "D:\\SCVPB6\\A_Basic_IO\\f_string_user_input\\f_string_user_input.csproj",
+      "projectPath": "D:\\B6_VP\\A_Basic_IO\\f_string_user_input\\f_string_user_input.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\SCVPB6\\A_Basic_IO\\f_string_user_input\\obj\\",
+      "outputPath": "D:\\B6_VP\\A_Basic_IO\\f_string_user_input\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

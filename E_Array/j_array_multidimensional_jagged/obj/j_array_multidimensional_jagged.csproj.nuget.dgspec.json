@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\E_Array\\j_array_multidimensional_jagged\\j_array_multidimensional_jagged.csproj": {}
+    "D:\\B6_VP\\E_Array\\j_array_multidimensional_jagged\\j_array_multidimensional_jagged.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\E_Array\\j_array_multidimensional_jagged\\j_array_multidimensional_jagged.csproj": {
+    "D:\\B6_VP\\E_Array\\j_array_multidimensional_jagged\\j_array_multidimensional_jagged.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\E_Array\\j_array_multidimensional_jagged\\j_array_multidimensional_jagged.csproj",
+        "projectUniqueName": "D:\\B6_VP\\E_Array\\j_array_multidimensional_jagged\\j_array_multidimensional_jagged.csproj",
         "projectName": "j_array_multidimensional_jagged",
-        "projectPath": "D:\\SCVPB6\\E_Array\\j_array_multidimensional_jagged\\j_array_multidimensional_jagged.csproj",
+        "projectPath": "D:\\B6_VP\\E_Array\\j_array_multidimensional_jagged\\j_array_multidimensional_jagged.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\E_Array\\j_array_multidimensional_jagged\\obj\\",
+        "outputPath": "D:\\B6_VP\\E_Array\\j_array_multidimensional_jagged\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

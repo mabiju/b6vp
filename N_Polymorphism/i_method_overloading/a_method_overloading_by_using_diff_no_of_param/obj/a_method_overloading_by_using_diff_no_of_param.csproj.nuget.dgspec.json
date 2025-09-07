@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\a_method_overloading_by_using_diff_no_of_param.csproj": {}
+    "D:\\B6_VP\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\a_method_overloading_by_using_diff_no_of_param.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\a_method_overloading_by_using_diff_no_of_param.csproj": {
+    "D:\\B6_VP\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\a_method_overloading_by_using_diff_no_of_param.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\a_method_overloading_by_using_diff_no_of_param.csproj",
+        "projectUniqueName": "D:\\B6_VP\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\a_method_overloading_by_using_diff_no_of_param.csproj",
         "projectName": "a_method_overloading_by_using_diff_no_of_param",
-        "projectPath": "D:\\SCVPB6\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\a_method_overloading_by_using_diff_no_of_param.csproj",
+        "projectPath": "D:\\B6_VP\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\a_method_overloading_by_using_diff_no_of_param.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\obj\\",
+        "outputPath": "D:\\B6_VP\\N_Polymorphism\\i_method_overloading\\a_method_overloading_by_using_diff_no_of_param\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

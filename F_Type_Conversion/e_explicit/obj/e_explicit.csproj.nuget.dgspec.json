@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\F_Type_Conversion\\e_explicit\\e_explicit.csproj": {}
+    "D:\\B6_VP\\F_Type_Conversion\\e_explicit\\e_explicit.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\F_Type_Conversion\\e_explicit\\e_explicit.csproj": {
+    "D:\\B6_VP\\F_Type_Conversion\\e_explicit\\e_explicit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\F_Type_Conversion\\e_explicit\\e_explicit.csproj",
+        "projectUniqueName": "D:\\B6_VP\\F_Type_Conversion\\e_explicit\\e_explicit.csproj",
         "projectName": "e_explicit",
-        "projectPath": "D:\\SCVPB6\\F_Type_Conversion\\e_explicit\\e_explicit.csproj",
+        "projectPath": "D:\\B6_VP\\F_Type_Conversion\\e_explicit\\e_explicit.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\F_Type_Conversion\\e_explicit\\obj\\",
+        "outputPath": "D:\\B6_VP\\F_Type_Conversion\\e_explicit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

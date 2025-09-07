@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\A_Basic_IO\\b_hello_nepal_program_main\\b_hello_nepal_program_main.csproj": {}
+    "D:\\B6_VP\\A_Basic_IO\\b_hello_nepal_program_main\\b_hello_nepal_program_main.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\A_Basic_IO\\b_hello_nepal_program_main\\b_hello_nepal_program_main.csproj": {
+    "D:\\B6_VP\\A_Basic_IO\\b_hello_nepal_program_main\\b_hello_nepal_program_main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\A_Basic_IO\\b_hello_nepal_program_main\\b_hello_nepal_program_main.csproj",
+        "projectUniqueName": "D:\\B6_VP\\A_Basic_IO\\b_hello_nepal_program_main\\b_hello_nepal_program_main.csproj",
         "projectName": "b_hello_nepal_program_main",
-        "projectPath": "D:\\SCVPB6\\A_Basic_IO\\b_hello_nepal_program_main\\b_hello_nepal_program_main.csproj",
+        "projectPath": "D:\\B6_VP\\A_Basic_IO\\b_hello_nepal_program_main\\b_hello_nepal_program_main.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\A_Basic_IO\\b_hello_nepal_program_main\\obj\\",
+        "outputPath": "D:\\B6_VP\\A_Basic_IO\\b_hello_nepal_program_main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

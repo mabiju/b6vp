@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCVPB6\\D_Control_Statements\\h_do_while_1_to_10\\h_do_while_1_to_10.csproj": {}
+    "D:\\B6_VP\\D_Control_Statements\\h_do_while_1_to_10\\h_do_while_1_to_10.csproj": {}
   },
   "projects": {
-    "D:\\SCVPB6\\D_Control_Statements\\h_do_while_1_to_10\\h_do_while_1_to_10.csproj": {
+    "D:\\B6_VP\\D_Control_Statements\\h_do_while_1_to_10\\h_do_while_1_to_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCVPB6\\D_Control_Statements\\h_do_while_1_to_10\\h_do_while_1_to_10.csproj",
+        "projectUniqueName": "D:\\B6_VP\\D_Control_Statements\\h_do_while_1_to_10\\h_do_while_1_to_10.csproj",
         "projectName": "h_do_while_1_to_10",
-        "projectPath": "D:\\SCVPB6\\D_Control_Statements\\h_do_while_1_to_10\\h_do_while_1_to_10.csproj",
+        "projectPath": "D:\\B6_VP\\D_Control_Statements\\h_do_while_1_to_10\\h_do_while_1_to_10.csproj",
         "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-        "outputPath": "D:\\SCVPB6\\D_Control_Statements\\h_do_while_1_to_10\\obj\\",
+        "outputPath": "D:\\B6_VP\\D_Control_Statements\\h_do_while_1_to_10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

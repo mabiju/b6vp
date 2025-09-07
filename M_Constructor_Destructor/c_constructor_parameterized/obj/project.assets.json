@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SCVPB6\\M_Constructor_Destructor\\c_constructor_parameterized\\c_constructor_parameterized.csproj",
+      "projectUniqueName": "D:\\B6_VP\\M_Constructor_Destructor\\c_constructor_parameterized\\c_constructor_parameterized.csproj",
       "projectName": "c_constructor_parameterized",
-      "projectPath": "D:\\SCVPB6\\M_Constructor_Destructor\\c_constructor_parameterized\\c_constructor_parameterized.csproj",
+      "projectPath": "D:\\B6_VP\\M_Constructor_Destructor\\c_constructor_parameterized\\c_constructor_parameterized.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\SCVPB6\\M_Constructor_Destructor\\c_constructor_parameterized\\obj\\",
+      "outputPath": "D:\\B6_VP\\M_Constructor_Destructor\\c_constructor_parameterized\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

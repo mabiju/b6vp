@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SCVPB6\\C_Data_Types\\f_reference_type_object\\f_reference_type_object.csproj",
+      "projectUniqueName": "D:\\B6_VP\\C_Data_Types\\f_reference_type_object\\f_reference_type_object.csproj",
       "projectName": "f_reference_type_object",
-      "projectPath": "D:\\SCVPB6\\C_Data_Types\\f_reference_type_object\\f_reference_type_object.csproj",
+      "projectPath": "D:\\B6_VP\\C_Data_Types\\f_reference_type_object\\f_reference_type_object.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\SCVPB6\\C_Data_Types\\f_reference_type_object\\obj\\",
+      "outputPath": "D:\\B6_VP\\C_Data_Types\\f_reference_type_object\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
