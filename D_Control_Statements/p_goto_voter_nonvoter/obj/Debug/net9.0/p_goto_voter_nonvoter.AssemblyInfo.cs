@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p_goto_voter_nonvoter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0773a868d32f77815302132ca64da5f5dfb50995")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+842e3e7e124938df07fd8924295501f8675dace1")]
 [assembly: System.Reflection.AssemblyProductAttribute("p_goto_voter_nonvoter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p_goto_voter_nonvoter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
