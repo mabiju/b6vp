@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d_value_type_byte_signed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+842e3e7e124938df07fd8924295501f8675dace1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f84c53197e9260d366695ea5090f9901fe59addb")]
 [assembly: System.Reflection.AssemblyProductAttribute("d_value_type_byte_signed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d_value_type_byte_signed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
