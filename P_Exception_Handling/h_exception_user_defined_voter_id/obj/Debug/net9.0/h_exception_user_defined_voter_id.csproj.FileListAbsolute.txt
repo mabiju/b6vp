@@ -1,0 +1,15 @@
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\bin\Debug\net9.0\h_exception_user_defined_voter_id.exe
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\bin\Debug\net9.0\h_exception_user_defined_voter_id.deps.json
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\bin\Debug\net9.0\h_exception_user_defined_voter_id.runtimeconfig.json
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\bin\Debug\net9.0\h_exception_user_defined_voter_id.dll
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\bin\Debug\net9.0\h_exception_user_defined_voter_id.pdb
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\h_exception_user_defined_voter_id.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\h_exception_user_defined_voter_id.AssemblyInfoInputs.cache
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\h_exception_user_defined_voter_id.AssemblyInfo.cs
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\h_exception_user_defined_voter_id.csproj.CoreCompileInputs.cache
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\h_exception_user_defined_voter_id.sourcelink.json
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\h_exception_user_defined_voter_id.dll
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\refint\h_exception_user_defined_voter_id.dll
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\h_exception_user_defined_voter_id.pdb
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\h_exception_user_defined_voter_id.genruntimeconfig.cache
+D:\B6_VP\P_Exception_Handling\h_exception_user_defined_voter_id\obj\Debug\net9.0\ref\h_exception_user_defined_voter_id.dll

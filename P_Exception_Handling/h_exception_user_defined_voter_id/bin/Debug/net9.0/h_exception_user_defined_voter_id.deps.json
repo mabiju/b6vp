@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "h_exception_user_defined_voter_id/1.0.0": {
+        "runtime": {
+          "h_exception_user_defined_voter_id.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "h_exception_user_defined_voter_id/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\B6_VP\R_Abstract_Method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.exe
+D:\B6_VP\R_Abstract_Method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.deps.json
+D:\B6_VP\R_Abstract_Method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.runtimeconfig.json
+D:\B6_VP\R_Abstract_Method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.dll
+D:\B6_VP\R_Abstract_Method\a_abstract_method\bin\Debug\net9.0\a_abstract_method.pdb
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.AssemblyInfoInputs.cache
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.AssemblyInfo.cs
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.csproj.CoreCompileInputs.cache
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.sourcelink.json
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.dll
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\refint\a_abstract_method.dll
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.pdb
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\a_abstract_method.genruntimeconfig.cache
+D:\B6_VP\R_Abstract_Method\a_abstract_method\obj\Debug\net9.0\ref\a_abstract_method.dll

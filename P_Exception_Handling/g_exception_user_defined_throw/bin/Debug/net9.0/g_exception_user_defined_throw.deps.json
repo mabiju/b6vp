@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "g_exception_user_defined_throw/1.0.0": {
+        "runtime": {
+          "g_exception_user_defined_throw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "g_exception_user_defined_throw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

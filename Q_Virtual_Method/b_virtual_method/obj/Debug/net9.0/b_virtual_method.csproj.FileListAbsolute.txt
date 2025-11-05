@@ -1,0 +1,15 @@
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.exe
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.deps.json
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.runtimeconfig.json
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.dll
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\bin\Debug\net9.0\b_virtual_method.pdb
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.AssemblyInfoInputs.cache
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.AssemblyInfo.cs
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.csproj.CoreCompileInputs.cache
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.sourcelink.json
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.dll
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\refint\b_virtual_method.dll
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.pdb
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\b_virtual_method.genruntimeconfig.cache
+D:\B6_VP\Q_Virtual_Method\b_virtual_method\obj\Debug\net9.0\ref\b_virtual_method.dll
