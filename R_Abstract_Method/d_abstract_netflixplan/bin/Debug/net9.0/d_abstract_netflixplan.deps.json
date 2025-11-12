@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "d_abstract_netflixplan/1.0.0": {
+        "runtime": {
+          "d_abstract_netflixplan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d_abstract_netflixplan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

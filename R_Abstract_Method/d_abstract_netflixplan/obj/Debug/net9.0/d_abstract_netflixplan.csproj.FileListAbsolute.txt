@@ -1,0 +1,15 @@
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\bin\Debug\net9.0\d_abstract_netflixplan.exe
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\bin\Debug\net9.0\d_abstract_netflixplan.deps.json
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\bin\Debug\net9.0\d_abstract_netflixplan.runtimeconfig.json
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\bin\Debug\net9.0\d_abstract_netflixplan.dll
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\bin\Debug\net9.0\d_abstract_netflixplan.pdb
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\d_abstract_netflixplan.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\d_abstract_netflixplan.AssemblyInfoInputs.cache
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\d_abstract_netflixplan.AssemblyInfo.cs
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\d_abstract_netflixplan.csproj.CoreCompileInputs.cache
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\d_abstract_netflixplan.sourcelink.json
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\d_abstract_netflixplan.dll
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\refint\d_abstract_netflixplan.dll
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\d_abstract_netflixplan.pdb
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\d_abstract_netflixplan.genruntimeconfig.cache
+D:\B6_VP\R_Abstract_Method\d_abstract_netflixplan\obj\Debug\net9.0\ref\d_abstract_netflixplan.dll

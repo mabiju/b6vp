@@ -1,0 +1,15 @@
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.exe
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.deps.json
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.runtimeconfig.json
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.dll
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\bin\Debug\net9.0\e_abstract_emp_details.pdb
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.AssemblyInfoInputs.cache
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.AssemblyInfo.cs
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.csproj.CoreCompileInputs.cache
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.sourcelink.json
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.dll
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\refint\e_abstract_emp_details.dll
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.pdb
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\e_abstract_emp_details.genruntimeconfig.cache
+D:\B6_VP\R_Abstract_Method\e_abstract_emp_details\obj\Debug\net9.0\ref\e_abstract_emp_details.dll
