@@ -1,0 +1,15 @@
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\b_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\b_delegate.AssemblyInfoInputs.cache
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\b_delegate.AssemblyInfo.cs
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\b_delegate.csproj.CoreCompileInputs.cache
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\b_delegate.sourcelink.json
+D:\B6_VP\S_Delegate\b_delegate\bin\Debug\net9.0\b_delegate.exe
+D:\B6_VP\S_Delegate\b_delegate\bin\Debug\net9.0\b_delegate.deps.json
+D:\B6_VP\S_Delegate\b_delegate\bin\Debug\net9.0\b_delegate.runtimeconfig.json
+D:\B6_VP\S_Delegate\b_delegate\bin\Debug\net9.0\b_delegate.dll
+D:\B6_VP\S_Delegate\b_delegate\bin\Debug\net9.0\b_delegate.pdb
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\b_delegate.dll
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\refint\b_delegate.dll
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\b_delegate.pdb
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\b_delegate.genruntimeconfig.cache
+D:\B6_VP\S_Delegate\b_delegate\obj\Debug\net9.0\ref\b_delegate.dll

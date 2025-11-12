@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d_array_min_max_sum_avg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76a923e453470a0453d9a802e62be161dfa95218")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3761e8697c7492003b0332500a447dc22be25a80")]
 [assembly: System.Reflection.AssemblyProductAttribute("d_array_min_max_sum_avg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d_array_min_max_sum_avg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
