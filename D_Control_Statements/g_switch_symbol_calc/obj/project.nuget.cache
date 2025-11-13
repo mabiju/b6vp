@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "onQusn3Nveg=",
+  "dgSpecHash": "RKk0mcBQq60=",
   "success": true,
   "projectFilePath": "D:\\B6_VP\\D_Control_Statements\\g_switch_symbol_calc\\g_switch_symbol_calc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
