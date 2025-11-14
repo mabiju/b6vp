@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("b_hello_nepal_program_main")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aafc6c27d4f5c8557f085d6ee49863aef01cc6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf45dc0640c64cbd6885dbaf6225fe46b0877e06")]
 [assembly: System.Reflection.AssemblyProductAttribute("b_hello_nepal_program_main")]
 [assembly: System.Reflection.AssemblyTitleAttribute("b_hello_nepal_program_main")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

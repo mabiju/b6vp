@@ -1,0 +1,15 @@
+D:\B6_VP\T_Lambda_Expression\b_lambda\bin\Debug\net10.0\b_lambda.exe
+D:\B6_VP\T_Lambda_Expression\b_lambda\bin\Debug\net10.0\b_lambda.deps.json
+D:\B6_VP\T_Lambda_Expression\b_lambda\bin\Debug\net10.0\b_lambda.runtimeconfig.json
+D:\B6_VP\T_Lambda_Expression\b_lambda\bin\Debug\net10.0\b_lambda.dll
+D:\B6_VP\T_Lambda_Expression\b_lambda\bin\Debug\net10.0\b_lambda.pdb
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\b_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\b_lambda.AssemblyInfoInputs.cache
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\b_lambda.AssemblyInfo.cs
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\b_lambda.csproj.CoreCompileInputs.cache
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\b_lambda.sourcelink.json
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\b_lambda.dll
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\refint\b_lambda.dll
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\b_lambda.pdb
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\b_lambda.genruntimeconfig.cache
+D:\B6_VP\T_Lambda_Expression\b_lambda\obj\Debug\net10.0\ref\b_lambda.dll
