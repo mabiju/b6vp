@@ -1,0 +1,15 @@
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\bin\Debug\net10.0\c_string_concatenation.exe
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\bin\Debug\net10.0\c_string_concatenation.deps.json
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\bin\Debug\net10.0\c_string_concatenation.runtimeconfig.json
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\bin\Debug\net10.0\c_string_concatenation.dll
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\bin\Debug\net10.0\c_string_concatenation.pdb
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\c_string_concatenation.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\c_string_concatenation.AssemblyInfoInputs.cache
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\c_string_concatenation.AssemblyInfo.cs
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\c_string_concatenation.csproj.CoreCompileInputs.cache
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\c_string_concatenation.sourcelink.json
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\c_string_concatenation.dll
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\refint\c_string_concatenation.dll
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\c_string_concatenation.pdb
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\c_string_concatenation.genruntimeconfig.cache
+D:\B6_VP\U_String_Manipulation\c_string_concatenation\obj\Debug\net10.0\ref\c_string_concatenation.dll

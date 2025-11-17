@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("e_array_sort_string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf45dc0640c64cbd6885dbaf6225fe46b0877e06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dabe039398bf5f185f172679a128ec6baf671f75")]
 [assembly: System.Reflection.AssemblyProductAttribute("e_array_sort_string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("e_array_sort_string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
