@@ -1,0 +1,15 @@
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\bin\Debug\net10.0\q_string_interpolation.exe
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\bin\Debug\net10.0\q_string_interpolation.deps.json
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\bin\Debug\net10.0\q_string_interpolation.runtimeconfig.json
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\bin\Debug\net10.0\q_string_interpolation.dll
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\bin\Debug\net10.0\q_string_interpolation.pdb
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\q_string_interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\q_string_interpolation.AssemblyInfoInputs.cache
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\q_string_interpolation.AssemblyInfo.cs
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\q_string_interpolation.csproj.CoreCompileInputs.cache
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\q_string_interpolation.sourcelink.json
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\q_string_interpolation.dll
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\refint\q_string_interpolation.dll
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\q_string_interpolation.pdb
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\q_string_interpolation.genruntimeconfig.cache
+D:\B6_VP\U_String_Manipulation\q_string_interpolation\obj\Debug\net10.0\ref\q_string_interpolation.dll

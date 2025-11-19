@@ -1,0 +1,15 @@
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\bin\Debug\net10.0\i_string_uppercase.exe
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\bin\Debug\net10.0\i_string_uppercase.deps.json
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\bin\Debug\net10.0\i_string_uppercase.runtimeconfig.json
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\bin\Debug\net10.0\i_string_uppercase.dll
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\bin\Debug\net10.0\i_string_uppercase.pdb
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\i_string_uppercase.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\i_string_uppercase.AssemblyInfoInputs.cache
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\i_string_uppercase.AssemblyInfo.cs
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\i_string_uppercase.csproj.CoreCompileInputs.cache
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\i_string_uppercase.sourcelink.json
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\i_string_uppercase.dll
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\refint\i_string_uppercase.dll
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\i_string_uppercase.pdb
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\i_string_uppercase.genruntimeconfig.cache
+D:\B6_VP\U_String_Manipulation\i_string_uppercase\obj\Debug\net10.0\ref\i_string_uppercase.dll

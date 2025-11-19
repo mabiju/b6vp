@@ -1,0 +1,15 @@
+D:\B6_VP\U_String_Manipulation\j_string_copy\bin\Debug\net10.0\j_string_copy.exe
+D:\B6_VP\U_String_Manipulation\j_string_copy\bin\Debug\net10.0\j_string_copy.deps.json
+D:\B6_VP\U_String_Manipulation\j_string_copy\bin\Debug\net10.0\j_string_copy.runtimeconfig.json
+D:\B6_VP\U_String_Manipulation\j_string_copy\bin\Debug\net10.0\j_string_copy.dll
+D:\B6_VP\U_String_Manipulation\j_string_copy\bin\Debug\net10.0\j_string_copy.pdb
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\j_string_copy.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\j_string_copy.AssemblyInfoInputs.cache
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\j_string_copy.AssemblyInfo.cs
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\j_string_copy.csproj.CoreCompileInputs.cache
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\j_string_copy.sourcelink.json
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\j_string_copy.dll
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\refint\j_string_copy.dll
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\j_string_copy.pdb
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\j_string_copy.genruntimeconfig.cache
+D:\B6_VP\U_String_Manipulation\j_string_copy\obj\Debug\net10.0\ref\j_string_copy.dll

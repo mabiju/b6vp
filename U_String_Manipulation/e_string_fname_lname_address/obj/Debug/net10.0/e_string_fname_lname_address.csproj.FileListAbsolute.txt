@@ -1,0 +1,15 @@
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\bin\Debug\net10.0\e_string_fname_lname_address.exe
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\bin\Debug\net10.0\e_string_fname_lname_address.deps.json
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\bin\Debug\net10.0\e_string_fname_lname_address.runtimeconfig.json
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\bin\Debug\net10.0\e_string_fname_lname_address.dll
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\bin\Debug\net10.0\e_string_fname_lname_address.pdb
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\e_string_fname_lname_address.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\e_string_fname_lname_address.AssemblyInfoInputs.cache
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\e_string_fname_lname_address.AssemblyInfo.cs
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\e_string_fname_lname_address.csproj.CoreCompileInputs.cache
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\e_string_fname_lname_address.sourcelink.json
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\e_string_fname_lname_address.dll
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\refint\e_string_fname_lname_address.dll
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\e_string_fname_lname_address.pdb
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\e_string_fname_lname_address.genruntimeconfig.cache
+D:\B6_VP\U_String_Manipulation\e_string_fname_lname_address\obj\Debug\net10.0\ref\e_string_fname_lname_address.dll

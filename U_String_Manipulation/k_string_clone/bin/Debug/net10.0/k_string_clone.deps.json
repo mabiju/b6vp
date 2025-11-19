@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "k_string_clone/1.0.0": {
+        "runtime": {
+          "k_string_clone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "k_string_clone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
