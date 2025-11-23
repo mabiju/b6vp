@@ -1,0 +1,15 @@
+D:\B6_VP\V_String_Builder\f_string_builder_replace\bin\Debug\net10.0\f_string_builder_replace.exe
+D:\B6_VP\V_String_Builder\f_string_builder_replace\bin\Debug\net10.0\f_string_builder_replace.deps.json
+D:\B6_VP\V_String_Builder\f_string_builder_replace\bin\Debug\net10.0\f_string_builder_replace.runtimeconfig.json
+D:\B6_VP\V_String_Builder\f_string_builder_replace\bin\Debug\net10.0\f_string_builder_replace.dll
+D:\B6_VP\V_String_Builder\f_string_builder_replace\bin\Debug\net10.0\f_string_builder_replace.pdb
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\f_string_builder_replace.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\f_string_builder_replace.AssemblyInfoInputs.cache
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\f_string_builder_replace.AssemblyInfo.cs
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\f_string_builder_replace.csproj.CoreCompileInputs.cache
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\f_string_builder_replace.sourcelink.json
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\f_string_builder_replace.dll
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\refint\f_string_builder_replace.dll
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\f_string_builder_replace.pdb
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\f_string_builder_replace.genruntimeconfig.cache
+D:\B6_VP\V_String_Builder\f_string_builder_replace\obj\Debug\net10.0\ref\f_string_builder_replace.dll

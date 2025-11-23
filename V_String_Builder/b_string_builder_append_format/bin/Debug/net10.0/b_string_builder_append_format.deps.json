@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "b_string_builder_append_format/1.0.0": {
+        "runtime": {
+          "b_string_builder_append_format.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b_string_builder_append_format/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

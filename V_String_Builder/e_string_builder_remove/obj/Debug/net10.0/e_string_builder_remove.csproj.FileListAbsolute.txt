@@ -1,0 +1,15 @@
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\e_string_builder_remove.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\e_string_builder_remove.AssemblyInfoInputs.cache
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\e_string_builder_remove.AssemblyInfo.cs
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\e_string_builder_remove.csproj.CoreCompileInputs.cache
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\e_string_builder_remove.sourcelink.json
+D:\B6_VP\V_String_Builder\e_string_builder_remove\bin\Debug\net10.0\e_string_builder_remove.exe
+D:\B6_VP\V_String_Builder\e_string_builder_remove\bin\Debug\net10.0\e_string_builder_remove.deps.json
+D:\B6_VP\V_String_Builder\e_string_builder_remove\bin\Debug\net10.0\e_string_builder_remove.runtimeconfig.json
+D:\B6_VP\V_String_Builder\e_string_builder_remove\bin\Debug\net10.0\e_string_builder_remove.dll
+D:\B6_VP\V_String_Builder\e_string_builder_remove\bin\Debug\net10.0\e_string_builder_remove.pdb
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\e_string_builder_remove.dll
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\refint\e_string_builder_remove.dll
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\e_string_builder_remove.pdb
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\e_string_builder_remove.genruntimeconfig.cache
+D:\B6_VP\V_String_Builder\e_string_builder_remove\obj\Debug\net10.0\ref\e_string_builder_remove.dll

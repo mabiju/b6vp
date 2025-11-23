@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "g_string_builder_string_to_string_builder_object/1.0.0": {
+        "runtime": {
+          "g_string_builder_string_to_string_builder_object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "g_string_builder_string_to_string_builder_object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
