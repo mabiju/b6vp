@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "f_stack_t/1.0.0": {
+        "runtime": {
+          "f_stack_t.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f_stack_t/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

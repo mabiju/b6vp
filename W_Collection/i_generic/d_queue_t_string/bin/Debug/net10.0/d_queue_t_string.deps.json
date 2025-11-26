@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "d_queue_t_string/1.0.0": {
+        "runtime": {
+          "d_queue_t_string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d_queue_t_string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
