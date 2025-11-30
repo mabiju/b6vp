@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("I_multiple_inheritance_problem_scenario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97bea214e3ff71bb3a062ab1b9143790382ac72f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5336c934ade617ad51476824d685322a221c53d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("I_multiple_inheritance_problem_scenario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("I_multiple_inheritance_problem_scenario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

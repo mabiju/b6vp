@@ -1,0 +1,15 @@
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\b_hashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\b_hashtable.AssemblyInfoInputs.cache
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\b_hashtable.AssemblyInfo.cs
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\b_hashtable.csproj.CoreCompileInputs.cache
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\b_hashtable.sourcelink.json
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\bin\Debug\net10.0\b_hashtable.exe
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\bin\Debug\net10.0\b_hashtable.deps.json
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\bin\Debug\net10.0\b_hashtable.runtimeconfig.json
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\bin\Debug\net10.0\b_hashtable.dll
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\bin\Debug\net10.0\b_hashtable.pdb
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\b_hashtable.dll
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\refint\b_hashtable.dll
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\b_hashtable.pdb
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\b_hashtable.genruntimeconfig.cache
+D:\B6_VP\W_Collection\ii_non_generic\b_hashtable\obj\Debug\net10.0\ref\b_hashtable.dll

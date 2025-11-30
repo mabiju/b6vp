@@ -1,0 +1,15 @@
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\bin\Debug\net10.0\d_stack.exe
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\bin\Debug\net10.0\d_stack.deps.json
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\bin\Debug\net10.0\d_stack.runtimeconfig.json
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\bin\Debug\net10.0\d_stack.dll
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\bin\Debug\net10.0\d_stack.pdb
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\d_stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\d_stack.AssemblyInfoInputs.cache
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\d_stack.AssemblyInfo.cs
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\d_stack.csproj.CoreCompileInputs.cache
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\d_stack.sourcelink.json
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\d_stack.dll
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\refint\d_stack.dll
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\d_stack.pdb
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\d_stack.genruntimeconfig.cache
+D:\B6_VP\W_Collection\ii_non_generic\d_stack\obj\Debug\net10.0\ref\d_stack.dll
