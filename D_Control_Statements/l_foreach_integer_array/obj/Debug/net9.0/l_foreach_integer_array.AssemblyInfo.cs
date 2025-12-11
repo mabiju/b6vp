@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("l_foreach_integer_array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5336c934ade617ad51476824d685322a221c53d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddecd68e4d4ca68c99ea434f9b89524d30277ae2")]
 [assembly: System.Reflection.AssemblyProductAttribute("l_foreach_integer_array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("l_foreach_integer_array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

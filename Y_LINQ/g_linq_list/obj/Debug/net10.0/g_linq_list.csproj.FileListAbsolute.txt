@@ -1,0 +1,15 @@
+D:\B6_VP\Y_LINQ\g_linq_list\bin\Debug\net10.0\g_linq_list.exe
+D:\B6_VP\Y_LINQ\g_linq_list\bin\Debug\net10.0\g_linq_list.deps.json
+D:\B6_VP\Y_LINQ\g_linq_list\bin\Debug\net10.0\g_linq_list.runtimeconfig.json
+D:\B6_VP\Y_LINQ\g_linq_list\bin\Debug\net10.0\g_linq_list.dll
+D:\B6_VP\Y_LINQ\g_linq_list\bin\Debug\net10.0\g_linq_list.pdb
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\g_linq_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\g_linq_list.AssemblyInfoInputs.cache
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\g_linq_list.AssemblyInfo.cs
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\g_linq_list.csproj.CoreCompileInputs.cache
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\g_linq_list.sourcelink.json
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\g_linq_list.dll
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\refint\g_linq_list.dll
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\g_linq_list.pdb
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\g_linq_list.genruntimeconfig.cache
+D:\B6_VP\Y_LINQ\g_linq_list\obj\Debug\net10.0\ref\g_linq_list.dll

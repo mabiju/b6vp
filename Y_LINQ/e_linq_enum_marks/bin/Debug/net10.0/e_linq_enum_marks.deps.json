@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "e_linq_enum_marks/1.0.0": {
+        "runtime": {
+          "e_linq_enum_marks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e_linq_enum_marks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

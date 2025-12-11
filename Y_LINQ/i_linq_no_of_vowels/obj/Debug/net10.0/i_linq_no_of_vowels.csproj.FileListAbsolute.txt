@@ -1,0 +1,15 @@
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net10.0\i_linq_no_of_vowels.exe
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net10.0\i_linq_no_of_vowels.deps.json
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net10.0\i_linq_no_of_vowels.runtimeconfig.json
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net10.0\i_linq_no_of_vowels.dll
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net10.0\i_linq_no_of_vowels.pdb
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\i_linq_no_of_vowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\i_linq_no_of_vowels.AssemblyInfoInputs.cache
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\i_linq_no_of_vowels.AssemblyInfo.cs
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\i_linq_no_of_vowels.csproj.CoreCompileInputs.cache
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\i_linq_no_of_vowels.sourcelink.json
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\i_linq_no_of_vowels.dll
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\refint\i_linq_no_of_vowels.dll
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\i_linq_no_of_vowels.pdb
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\i_linq_no_of_vowels.genruntimeconfig.cache
+D:\B6_VP\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net10.0\ref\i_linq_no_of_vowels.dll

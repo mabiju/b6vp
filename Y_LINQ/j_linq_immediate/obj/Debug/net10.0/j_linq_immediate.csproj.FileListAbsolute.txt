@@ -1,0 +1,15 @@
+D:\B6_VP\Y_LINQ\j_linq_immediate\bin\Debug\net10.0\j_linq_immediate.exe
+D:\B6_VP\Y_LINQ\j_linq_immediate\bin\Debug\net10.0\j_linq_immediate.deps.json
+D:\B6_VP\Y_LINQ\j_linq_immediate\bin\Debug\net10.0\j_linq_immediate.runtimeconfig.json
+D:\B6_VP\Y_LINQ\j_linq_immediate\bin\Debug\net10.0\j_linq_immediate.dll
+D:\B6_VP\Y_LINQ\j_linq_immediate\bin\Debug\net10.0\j_linq_immediate.pdb
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\j_linq_immediate.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\j_linq_immediate.AssemblyInfoInputs.cache
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\j_linq_immediate.AssemblyInfo.cs
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\j_linq_immediate.csproj.CoreCompileInputs.cache
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\j_linq_immediate.sourcelink.json
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\j_linq_immediate.dll
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\refint\j_linq_immediate.dll
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\j_linq_immediate.pdb
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\j_linq_immediate.genruntimeconfig.cache
+D:\B6_VP\Y_LINQ\j_linq_immediate\obj\Debug\net10.0\ref\j_linq_immediate.dll
