@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838A2CCB-091C-4132-B9AB-23DA265554C2}|ASP_NET_WebForm_Login.csproj|d:\\b6_vp\\zzz_visual_studio\\asp_net_webform_login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838A2CCB-091C-4132-B9AB-23DA265554C2}|ASP_NET_WebForm_Login.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838A2CCB-091C-4132-B9AB-23DA265554C2}|ASP_NET_WebForm_Login.csproj|D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{838A2CCB-091C-4132-B9AB-23DA265554C2}|ASP_NET_WebForm_Login.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838A2CCB-091C-4132-B9AB-23DA265554C2}|ASP_NET_WebForm_Login.csproj|D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{838A2CCB-091C-4132-B9AB-23DA265554C2}|ASP_NET_WebForm_Login.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838A2CCB-091C-4132-B9AB-23DA265554C2}|ASP_NET_WebForm_Login.csproj|D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{838A2CCB-091C-4132-B9AB-23DA265554C2}|ASP_NET_WebForm_Login.csproj|solutionrelative:welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-16T00:44:03.857Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-17T07:32:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.aspx",
+              "DocumentMoniker": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\Welcome.aspx",
+              "RelativeDocumentMoniker": "Welcome.aspx",
+              "ToolTip": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\Welcome.aspx",
+              "RelativeToolTip": "Welcome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-16T01:06:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\B6_VP\\ZZZ_Visual_Studio\\ASP_NET_WebForm_Login\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:54:17.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
