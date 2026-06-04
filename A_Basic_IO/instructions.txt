@@ -1,0 +1,8 @@
+1. Download and install latest version of Microsoft Dotnet Core SDK https://dotnet.microsoft.com/en-us/download
+2. Open cmd as administrator and type "dotnet --version" to check dotnet is installed or not
+3. Download and install VS code
+4. Go to extension and type "c#" and select first option where "C# for Visual Studio Code (powered by OmniSharp)." and install it in your system.
+5. Create a new folder where you want to start your project.
+6. Open it with cmd and type "dotnet new console" (Project with Top Level Statement) or "dotnet new console --use-program-main" (with main method) and hit enter key to create a .net console project
+7. type code. to open it with vscode.
+8. to run type "dotnet run" and enter
