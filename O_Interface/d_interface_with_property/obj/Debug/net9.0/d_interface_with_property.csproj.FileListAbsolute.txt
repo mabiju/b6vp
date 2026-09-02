@@ -1,0 +1,15 @@
+D:\B6_VP\O_Interface\d_interface_with_property\bin\Debug\net9.0\d_interface_with_property.exe
+D:\B6_VP\O_Interface\d_interface_with_property\bin\Debug\net9.0\d_interface_with_property.deps.json
+D:\B6_VP\O_Interface\d_interface_with_property\bin\Debug\net9.0\d_interface_with_property.runtimeconfig.json
+D:\B6_VP\O_Interface\d_interface_with_property\bin\Debug\net9.0\d_interface_with_property.dll
+D:\B6_VP\O_Interface\d_interface_with_property\bin\Debug\net9.0\d_interface_with_property.pdb
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\d_interface_with_property.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\d_interface_with_property.AssemblyInfoInputs.cache
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\d_interface_with_property.AssemblyInfo.cs
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\d_interface_with_property.csproj.CoreCompileInputs.cache
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\d_interface_with_property.sourcelink.json
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\d_interface_with_property.dll
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\refint\d_interface_with_property.dll
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\d_interface_with_property.pdb
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\d_interface_with_property.genruntimeconfig.cache
+D:\B6_VP\O_Interface\d_interface_with_property\obj\Debug\net9.0\ref\d_interface_with_property.dll

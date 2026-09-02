@@ -1,0 +1,15 @@
+D:\B6_VP\H_Enumeration\b_enum\bin\Debug\net10.0\b_enum.exe
+D:\B6_VP\H_Enumeration\b_enum\bin\Debug\net10.0\b_enum.deps.json
+D:\B6_VP\H_Enumeration\b_enum\bin\Debug\net10.0\b_enum.runtimeconfig.json
+D:\B6_VP\H_Enumeration\b_enum\bin\Debug\net10.0\b_enum.dll
+D:\B6_VP\H_Enumeration\b_enum\bin\Debug\net10.0\b_enum.pdb
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\b_enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\b_enum.AssemblyInfoInputs.cache
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\b_enum.AssemblyInfo.cs
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\b_enum.csproj.CoreCompileInputs.cache
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\b_enum.sourcelink.json
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\b_enum.dll
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\refint\b_enum.dll
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\b_enum.pdb
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\b_enum.genruntimeconfig.cache
+D:\B6_VP\H_Enumeration\b_enum\obj\Debug\net10.0\ref\b_enum.dll

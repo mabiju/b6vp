@@ -1,0 +1,15 @@
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\bin\Debug\net9.0\l_foreach_integer_array.exe
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\bin\Debug\net9.0\l_foreach_integer_array.deps.json
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\bin\Debug\net9.0\l_foreach_integer_array.runtimeconfig.json
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\bin\Debug\net9.0\l_foreach_integer_array.dll
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\bin\Debug\net9.0\l_foreach_integer_array.pdb
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\l_foreach_integer_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\l_foreach_integer_array.AssemblyInfoInputs.cache
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\l_foreach_integer_array.AssemblyInfo.cs
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\l_foreach_integer_array.csproj.CoreCompileInputs.cache
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\l_foreach_integer_array.sourcelink.json
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\l_foreach_integer_array.dll
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\refint\l_foreach_integer_array.dll
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\l_foreach_integer_array.pdb
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\l_foreach_integer_array.genruntimeconfig.cache
+D:\SCVPB6\D_Control_Statements\l_foreach_integer_array\obj\Debug\net9.0\ref\l_foreach_integer_array.dll

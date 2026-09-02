@@ -1,0 +1,15 @@
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\bin\Debug\net10.0\c_linq_distinct_num_entry.exe
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\bin\Debug\net10.0\c_linq_distinct_num_entry.deps.json
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\bin\Debug\net10.0\c_linq_distinct_num_entry.runtimeconfig.json
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\bin\Debug\net10.0\c_linq_distinct_num_entry.dll
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\bin\Debug\net10.0\c_linq_distinct_num_entry.pdb
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\c_linq_distinct_num_entry.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\c_linq_distinct_num_entry.AssemblyInfoInputs.cache
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\c_linq_distinct_num_entry.AssemblyInfo.cs
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\c_linq_distinct_num_entry.csproj.CoreCompileInputs.cache
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\c_linq_distinct_num_entry.sourcelink.json
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\c_linq_distinct_num_entry.dll
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\refint\c_linq_distinct_num_entry.dll
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\c_linq_distinct_num_entry.pdb
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\c_linq_distinct_num_entry.genruntimeconfig.cache
+D:\B6_VP\Y_LINQ\c_linq_distinct_num_entry\obj\Debug\net10.0\ref\c_linq_distinct_num_entry.dll

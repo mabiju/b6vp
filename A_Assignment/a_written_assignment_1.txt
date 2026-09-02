@@ -1,0 +1,19 @@
+Handwritten Assignment - 1
+---------------------------
+1. List the core components of the .NET Framework and briefly describe each.
+2. What are the primary features of Visual Studio's IDE for C# development?
+3. Explain the difference between if and switch statements in C#.
+4. Compare for, while, and do-while loops in C#.
+5. Describe the four pillars of OOP with examples in C#.
+6. How does method overloading work in C#? Provide an example.
+7. Differentiate between delegates and events in C#.
+8. What are the three approaches in Entity Framework for database interaction?
+9. Write a Razor syntax example in ASP.NET that loops through a list of strings.
+10. Explain the purpose of ExecuteNonQuery(), ExecuteReader(), and ExecuteScalar() in ADO.NET.
+
+
+Note: Assignments submitted after the specified deadline(2083/04/31, Sunday) will not be accepted.
+Students will bear full responsibility for any loss of marks resulting from late submission.
+
+Assigned : 2083/04/14, Thursday
+Deadline : 2083/04/31, Sunday

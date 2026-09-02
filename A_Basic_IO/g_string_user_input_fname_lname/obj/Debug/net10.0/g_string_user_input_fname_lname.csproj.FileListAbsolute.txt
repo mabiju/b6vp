@@ -1,0 +1,14 @@
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\bin\Debug\net10.0\g_string_user_input_fname_lname.exe
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\bin\Debug\net10.0\g_string_user_input_fname_lname.deps.json
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\bin\Debug\net10.0\g_string_user_input_fname_lname.runtimeconfig.json
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\bin\Debug\net10.0\g_string_user_input_fname_lname.dll
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\bin\Debug\net10.0\g_string_user_input_fname_lname.pdb
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\g_string_user_input_fname_lname.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\g_string_user_input_fname_lname.AssemblyInfoInputs.cache
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\g_string_user_input_fname_lname.AssemblyInfo.cs
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\g_string_user_input_fname_lname.csproj.CoreCompileInputs.cache
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\g_string_user_input_fname_lname.dll
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\refint\g_string_user_input_fname_lname.dll
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\g_string_user_input_fname_lname.pdb
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\g_string_user_input_fname_lname.genruntimeconfig.cache
+D:\B6_VP\A_Basic_IO\g_string_user_input_fname_lname\obj\Debug\net10.0\ref\g_string_user_input_fname_lname.dll

@@ -1,0 +1,15 @@
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net10.0\h_single_accessing_parent_method.exe
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net10.0\h_single_accessing_parent_method.deps.json
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net10.0\h_single_accessing_parent_method.runtimeconfig.json
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net10.0\h_single_accessing_parent_method.dll
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net10.0\h_single_accessing_parent_method.pdb
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\h_single_accessing_parent_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\h_single_accessing_parent_method.AssemblyInfoInputs.cache
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\h_single_accessing_parent_method.AssemblyInfo.cs
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\h_single_accessing_parent_method.csproj.CoreCompileInputs.cache
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\h_single_accessing_parent_method.sourcelink.json
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\h_single_accessing_parent_method.dll
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\refint\h_single_accessing_parent_method.dll
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\h_single_accessing_parent_method.pdb
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\h_single_accessing_parent_method.genruntimeconfig.cache
+D:\B6_VP\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net10.0\ref\h_single_accessing_parent_method.dll

@@ -1,0 +1,15 @@
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\h_single_accessing_parent_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\h_single_accessing_parent_method.AssemblyInfoInputs.cache
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\h_single_accessing_parent_method.AssemblyInfo.cs
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\h_single_accessing_parent_method.csproj.CoreCompileInputs.cache
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\h_single_accessing_parent_method.sourcelink.json
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\bin\Debug\net8.0\h_single_accessing_parent_method.exe
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\bin\Debug\net8.0\h_single_accessing_parent_method.deps.json
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\bin\Debug\net8.0\h_single_accessing_parent_method.runtimeconfig.json
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\bin\Debug\net8.0\h_single_accessing_parent_method.dll
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\bin\Debug\net8.0\h_single_accessing_parent_method.pdb
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\h_single_accessing_parent_method.dll
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\refint\h_single_accessing_parent_method.dll
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\h_single_accessing_parent_method.pdb
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\h_single_accessing_parent_method.genruntimeconfig.cache
+D:\SCCSB6\L_Inheritance\h_single_accessing_parent_method\obj\Debug\net8.0\ref\h_single_accessing_parent_method.dll

@@ -1,0 +1,15 @@
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\b_partial_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\b_partial_class.AssemblyInfoInputs.cache
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\b_partial_class.AssemblyInfo.cs
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\b_partial_class.csproj.CoreCompileInputs.cache
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\b_partial_class.sourcelink.json
+D:\SCVPB6\I_Partial_Class\b_partial_class\bin\Debug\net9.0\b_partial_class.exe
+D:\SCVPB6\I_Partial_Class\b_partial_class\bin\Debug\net9.0\b_partial_class.deps.json
+D:\SCVPB6\I_Partial_Class\b_partial_class\bin\Debug\net9.0\b_partial_class.runtimeconfig.json
+D:\SCVPB6\I_Partial_Class\b_partial_class\bin\Debug\net9.0\b_partial_class.dll
+D:\SCVPB6\I_Partial_Class\b_partial_class\bin\Debug\net9.0\b_partial_class.pdb
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\b_partial_class.dll
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\refint\b_partial_class.dll
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\b_partial_class.pdb
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\b_partial_class.genruntimeconfig.cache
+D:\SCVPB6\I_Partial_Class\b_partial_class\obj\Debug\net9.0\ref\b_partial_class.dll

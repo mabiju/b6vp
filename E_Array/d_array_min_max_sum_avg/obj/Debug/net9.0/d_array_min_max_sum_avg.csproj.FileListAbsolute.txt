@@ -1,0 +1,15 @@
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\d_array_min_max_sum_avg.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\d_array_min_max_sum_avg.AssemblyInfoInputs.cache
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\d_array_min_max_sum_avg.AssemblyInfo.cs
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\d_array_min_max_sum_avg.csproj.CoreCompileInputs.cache
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\d_array_min_max_sum_avg.sourcelink.json
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\bin\Debug\net9.0\d_array_min_max_sum_avg.exe
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\bin\Debug\net9.0\d_array_min_max_sum_avg.deps.json
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\bin\Debug\net9.0\d_array_min_max_sum_avg.runtimeconfig.json
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\bin\Debug\net9.0\d_array_min_max_sum_avg.dll
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\bin\Debug\net9.0\d_array_min_max_sum_avg.pdb
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\d_array_min_max_sum_avg.dll
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\refint\d_array_min_max_sum_avg.dll
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\d_array_min_max_sum_avg.pdb
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\d_array_min_max_sum_avg.genruntimeconfig.cache
+D:\SCVPB6\E_Array\d_array_min_max_sum_avg\obj\Debug\net9.0\ref\d_array_min_max_sum_avg.dll

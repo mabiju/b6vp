@@ -1,0 +1,15 @@
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\e_interface_same_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\e_interface_same_method.AssemblyInfoInputs.cache
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\e_interface_same_method.AssemblyInfo.cs
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\e_interface_same_method.csproj.CoreCompileInputs.cache
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\e_interface_same_method.sourcelink.json
+D:\B6_VP\O_Interface\e_interface_same_method\bin\Debug\net9.0\e_interface_same_method.exe
+D:\B6_VP\O_Interface\e_interface_same_method\bin\Debug\net9.0\e_interface_same_method.deps.json
+D:\B6_VP\O_Interface\e_interface_same_method\bin\Debug\net9.0\e_interface_same_method.runtimeconfig.json
+D:\B6_VP\O_Interface\e_interface_same_method\bin\Debug\net9.0\e_interface_same_method.dll
+D:\B6_VP\O_Interface\e_interface_same_method\bin\Debug\net9.0\e_interface_same_method.pdb
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\e_interface_same_method.dll
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\refint\e_interface_same_method.dll
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\e_interface_same_method.pdb
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\e_interface_same_method.genruntimeconfig.cache
+D:\B6_VP\O_Interface\e_interface_same_method\obj\Debug\net9.0\ref\e_interface_same_method.dll

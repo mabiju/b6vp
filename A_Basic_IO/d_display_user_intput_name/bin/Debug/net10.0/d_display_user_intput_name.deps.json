@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "d_display_user_intput_name/1.0.0": {
+        "runtime": {
+          "d_display_user_intput_name.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d_display_user_intput_name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

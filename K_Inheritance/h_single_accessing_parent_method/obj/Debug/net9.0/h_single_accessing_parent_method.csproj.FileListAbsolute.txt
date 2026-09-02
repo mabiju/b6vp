@@ -1,0 +1,15 @@
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net9.0\h_single_accessing_parent_method.exe
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net9.0\h_single_accessing_parent_method.deps.json
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net9.0\h_single_accessing_parent_method.runtimeconfig.json
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net9.0\h_single_accessing_parent_method.dll
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\bin\Debug\net9.0\h_single_accessing_parent_method.pdb
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\h_single_accessing_parent_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\h_single_accessing_parent_method.AssemblyInfoInputs.cache
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\h_single_accessing_parent_method.AssemblyInfo.cs
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\h_single_accessing_parent_method.csproj.CoreCompileInputs.cache
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\h_single_accessing_parent_method.sourcelink.json
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\h_single_accessing_parent_method.dll
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\refint\h_single_accessing_parent_method.dll
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\h_single_accessing_parent_method.pdb
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\h_single_accessing_parent_method.genruntimeconfig.cache
+D:\SCVPB6\K_Inheritance\h_single_accessing_parent_method\obj\Debug\net9.0\ref\h_single_accessing_parent_method.dll

@@ -1,0 +1,15 @@
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\bin\Debug\net9.0\d_user_inputs_with_methods.exe
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\bin\Debug\net9.0\d_user_inputs_with_methods.deps.json
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\bin\Debug\net9.0\d_user_inputs_with_methods.runtimeconfig.json
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\bin\Debug\net9.0\d_user_inputs_with_methods.dll
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\bin\Debug\net9.0\d_user_inputs_with_methods.pdb
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\d_user_inputs_with_methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\d_user_inputs_with_methods.AssemblyInfoInputs.cache
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\d_user_inputs_with_methods.AssemblyInfo.cs
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\d_user_inputs_with_methods.csproj.CoreCompileInputs.cache
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\d_user_inputs_with_methods.sourcelink.json
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\d_user_inputs_with_methods.dll
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\refint\d_user_inputs_with_methods.dll
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\d_user_inputs_with_methods.pdb
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\d_user_inputs_with_methods.genruntimeconfig.cache
+D:\SCVPB6\B_Class_Object\d_user_inputs_with_methods\obj\Debug\net9.0\ref\d_user_inputs_with_methods.dll

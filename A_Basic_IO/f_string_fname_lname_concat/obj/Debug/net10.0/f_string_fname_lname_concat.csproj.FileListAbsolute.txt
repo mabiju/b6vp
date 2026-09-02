@@ -1,0 +1,14 @@
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\bin\Debug\net10.0\f_string_fname_lname_concat.exe
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\bin\Debug\net10.0\f_string_fname_lname_concat.deps.json
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\bin\Debug\net10.0\f_string_fname_lname_concat.runtimeconfig.json
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\bin\Debug\net10.0\f_string_fname_lname_concat.dll
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\bin\Debug\net10.0\f_string_fname_lname_concat.pdb
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\f_string_fname_lname_concat.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\f_string_fname_lname_concat.AssemblyInfoInputs.cache
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\f_string_fname_lname_concat.AssemblyInfo.cs
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\f_string_fname_lname_concat.csproj.CoreCompileInputs.cache
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\f_string_fname_lname_concat.dll
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\refint\f_string_fname_lname_concat.dll
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\f_string_fname_lname_concat.pdb
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\f_string_fname_lname_concat.genruntimeconfig.cache
+D:\B6_VP\A_Basic_IO\f_string_fname_lname_concat\obj\Debug\net10.0\ref\f_string_fname_lname_concat.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "i_linq_no_of_vowels/1.0.0": {
+        "runtime": {
+          "i_linq_no_of_vowels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "i_linq_no_of_vowels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

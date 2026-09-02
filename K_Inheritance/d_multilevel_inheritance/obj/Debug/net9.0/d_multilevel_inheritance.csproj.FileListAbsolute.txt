@@ -1,0 +1,15 @@
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\bin\Debug\net9.0\d_multilevel_inheritance.exe
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\bin\Debug\net9.0\d_multilevel_inheritance.deps.json
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\bin\Debug\net9.0\d_multilevel_inheritance.runtimeconfig.json
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\bin\Debug\net9.0\d_multilevel_inheritance.dll
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\bin\Debug\net9.0\d_multilevel_inheritance.pdb
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\d_multilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\d_multilevel_inheritance.AssemblyInfoInputs.cache
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\d_multilevel_inheritance.AssemblyInfo.cs
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\d_multilevel_inheritance.csproj.CoreCompileInputs.cache
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\d_multilevel_inheritance.sourcelink.json
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\d_multilevel_inheritance.dll
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\refint\d_multilevel_inheritance.dll
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\d_multilevel_inheritance.pdb
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\d_multilevel_inheritance.genruntimeconfig.cache
+D:\SCVPB6\K_Inheritance\d_multilevel_inheritance\obj\Debug\net9.0\ref\d_multilevel_inheritance.dll

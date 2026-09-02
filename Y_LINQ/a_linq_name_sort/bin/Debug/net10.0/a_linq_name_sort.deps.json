@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "a_linq_name_sort/1.0.0": {
+        "runtime": {
+          "a_linq_name_sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "a_linq_name_sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

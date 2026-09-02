@@ -1,0 +1,15 @@
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\bin\Debug\net10.0\h_non_compatible_using_parse_method.exe
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\bin\Debug\net10.0\h_non_compatible_using_parse_method.deps.json
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\bin\Debug\net10.0\h_non_compatible_using_parse_method.runtimeconfig.json
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\bin\Debug\net10.0\h_non_compatible_using_parse_method.dll
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\bin\Debug\net10.0\h_non_compatible_using_parse_method.pdb
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\h_non_compatible_using_parse_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\h_non_compatible_using_parse_method.AssemblyInfoInputs.cache
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\h_non_compatible_using_parse_method.AssemblyInfo.cs
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\h_non_compatible_using_parse_method.csproj.CoreCompileInputs.cache
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\h_non_compatible_using_parse_method.sourcelink.json
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\h_non_compatible_using_parse_method.dll
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\refint\h_non_compatible_using_parse_method.dll
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\h_non_compatible_using_parse_method.pdb
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\h_non_compatible_using_parse_method.genruntimeconfig.cache
+D:\B6_VP\F_Type_Conversion\h_non_compatible_using_parse_method\obj\Debug\net10.0\ref\h_non_compatible_using_parse_method.dll

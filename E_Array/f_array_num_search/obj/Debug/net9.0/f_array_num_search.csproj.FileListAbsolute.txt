@@ -1,0 +1,15 @@
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\f_array_num_search.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\f_array_num_search.AssemblyInfoInputs.cache
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\f_array_num_search.AssemblyInfo.cs
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\f_array_num_search.csproj.CoreCompileInputs.cache
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\f_array_num_search.sourcelink.json
+D:\SCVPB6\E_Array\f_array_num_search\bin\Debug\net9.0\f_array_num_search.exe
+D:\SCVPB6\E_Array\f_array_num_search\bin\Debug\net9.0\f_array_num_search.deps.json
+D:\SCVPB6\E_Array\f_array_num_search\bin\Debug\net9.0\f_array_num_search.runtimeconfig.json
+D:\SCVPB6\E_Array\f_array_num_search\bin\Debug\net9.0\f_array_num_search.dll
+D:\SCVPB6\E_Array\f_array_num_search\bin\Debug\net9.0\f_array_num_search.pdb
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\f_array_num_search.dll
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\refint\f_array_num_search.dll
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\f_array_num_search.pdb
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\f_array_num_search.genruntimeconfig.cache
+D:\SCVPB6\E_Array\f_array_num_search\obj\Debug\net9.0\ref\f_array_num_search.dll

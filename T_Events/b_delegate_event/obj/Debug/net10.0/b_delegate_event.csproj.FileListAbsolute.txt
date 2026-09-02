@@ -1,0 +1,15 @@
+D:\B6_VP\T_Events\b_delegate_event\bin\Debug\net10.0\b_delegate_event.exe
+D:\B6_VP\T_Events\b_delegate_event\bin\Debug\net10.0\b_delegate_event.deps.json
+D:\B6_VP\T_Events\b_delegate_event\bin\Debug\net10.0\b_delegate_event.runtimeconfig.json
+D:\B6_VP\T_Events\b_delegate_event\bin\Debug\net10.0\b_delegate_event.dll
+D:\B6_VP\T_Events\b_delegate_event\bin\Debug\net10.0\b_delegate_event.pdb
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\b_delegate_event.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\b_delegate_event.AssemblyInfoInputs.cache
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\b_delegate_event.AssemblyInfo.cs
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\b_delegate_event.csproj.CoreCompileInputs.cache
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\b_delegate_event.sourcelink.json
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\b_delegate_event.dll
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\refint\b_delegate_event.dll
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\b_delegate_event.pdb
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\b_delegate_event.genruntimeconfig.cache
+D:\B6_VP\T_Events\b_delegate_event\obj\Debug\net10.0\ref\b_delegate_event.dll

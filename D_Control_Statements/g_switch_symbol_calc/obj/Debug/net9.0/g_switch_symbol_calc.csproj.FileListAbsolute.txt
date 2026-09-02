@@ -1,0 +1,15 @@
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\g_switch_symbol_calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\g_switch_symbol_calc.AssemblyInfoInputs.cache
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\g_switch_symbol_calc.AssemblyInfo.cs
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\g_switch_symbol_calc.csproj.CoreCompileInputs.cache
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\g_switch_symbol_calc.sourcelink.json
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\bin\Debug\net9.0\g_switch_symbol_calc.exe
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\bin\Debug\net9.0\g_switch_symbol_calc.deps.json
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\bin\Debug\net9.0\g_switch_symbol_calc.runtimeconfig.json
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\bin\Debug\net9.0\g_switch_symbol_calc.dll
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\bin\Debug\net9.0\g_switch_symbol_calc.pdb
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\g_switch_symbol_calc.dll
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\refint\g_switch_symbol_calc.dll
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\g_switch_symbol_calc.pdb
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\g_switch_symbol_calc.genruntimeconfig.cache
+D:\SCVPB6\D_Control_Statements\g_switch_symbol_calc\obj\Debug\net9.0\ref\g_switch_symbol_calc.dll

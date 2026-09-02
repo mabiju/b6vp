@@ -1,0 +1,15 @@
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\bin\Debug\net9.0\i_constructor_copy.exe
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\bin\Debug\net9.0\i_constructor_copy.deps.json
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\bin\Debug\net9.0\i_constructor_copy.runtimeconfig.json
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\bin\Debug\net9.0\i_constructor_copy.dll
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\bin\Debug\net9.0\i_constructor_copy.pdb
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\i_constructor_copy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\i_constructor_copy.AssemblyInfoInputs.cache
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\i_constructor_copy.AssemblyInfo.cs
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\i_constructor_copy.csproj.CoreCompileInputs.cache
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\i_constructor_copy.sourcelink.json
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\i_constructor_copy.dll
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\refint\i_constructor_copy.dll
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\i_constructor_copy.pdb
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\i_constructor_copy.genruntimeconfig.cache
+D:\SCVPB6\M_Constructor_Destructor\i_constructor_copy\obj\Debug\net9.0\ref\i_constructor_copy.dll

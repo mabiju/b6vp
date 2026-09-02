@@ -1,0 +1,15 @@
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\i_array_two_dimensional.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\i_array_two_dimensional.AssemblyInfoInputs.cache
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\i_array_two_dimensional.AssemblyInfo.cs
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\i_array_two_dimensional.csproj.CoreCompileInputs.cache
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\i_array_two_dimensional.sourcelink.json
+D:\SCVPB6\E_Array\i_array_two_dimensional\bin\Debug\net9.0\i_array_two_dimensional.exe
+D:\SCVPB6\E_Array\i_array_two_dimensional\bin\Debug\net9.0\i_array_two_dimensional.deps.json
+D:\SCVPB6\E_Array\i_array_two_dimensional\bin\Debug\net9.0\i_array_two_dimensional.runtimeconfig.json
+D:\SCVPB6\E_Array\i_array_two_dimensional\bin\Debug\net9.0\i_array_two_dimensional.dll
+D:\SCVPB6\E_Array\i_array_two_dimensional\bin\Debug\net9.0\i_array_two_dimensional.pdb
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\i_array_two_dimensional.dll
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\refint\i_array_two_dimensional.dll
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\i_array_two_dimensional.pdb
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\i_array_two_dimensional.genruntimeconfig.cache
+D:\SCVPB6\E_Array\i_array_two_dimensional\obj\Debug\net9.0\ref\i_array_two_dimensional.dll

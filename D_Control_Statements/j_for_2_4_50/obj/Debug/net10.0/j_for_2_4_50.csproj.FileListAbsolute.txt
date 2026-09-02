@@ -1,0 +1,15 @@
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\bin\Debug\net10.0\j_for_2_4_50.exe
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\bin\Debug\net10.0\j_for_2_4_50.deps.json
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\bin\Debug\net10.0\j_for_2_4_50.runtimeconfig.json
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\bin\Debug\net10.0\j_for_2_4_50.dll
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\bin\Debug\net10.0\j_for_2_4_50.pdb
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\j_for_2_4_50.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\j_for_2_4_50.AssemblyInfoInputs.cache
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\j_for_2_4_50.AssemblyInfo.cs
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\j_for_2_4_50.csproj.CoreCompileInputs.cache
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\j_for_2_4_50.sourcelink.json
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\j_for_2_4_50.dll
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\refint\j_for_2_4_50.dll
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\j_for_2_4_50.pdb
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\j_for_2_4_50.genruntimeconfig.cache
+D:\B6_VP\D_Control_Statements\j_for_2_4_50\obj\Debug\net10.0\ref\j_for_2_4_50.dll

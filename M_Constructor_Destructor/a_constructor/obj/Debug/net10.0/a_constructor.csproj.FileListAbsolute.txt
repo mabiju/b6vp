@@ -1,0 +1,15 @@
+D:\B6_VP\M_Constructor_Destructor\a_constructor\bin\Debug\net10.0\a_constructor.exe
+D:\B6_VP\M_Constructor_Destructor\a_constructor\bin\Debug\net10.0\a_constructor.deps.json
+D:\B6_VP\M_Constructor_Destructor\a_constructor\bin\Debug\net10.0\a_constructor.runtimeconfig.json
+D:\B6_VP\M_Constructor_Destructor\a_constructor\bin\Debug\net10.0\a_constructor.dll
+D:\B6_VP\M_Constructor_Destructor\a_constructor\bin\Debug\net10.0\a_constructor.pdb
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\a_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\a_constructor.AssemblyInfoInputs.cache
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\a_constructor.AssemblyInfo.cs
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\a_constructor.csproj.CoreCompileInputs.cache
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\a_constructor.sourcelink.json
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\a_constructor.dll
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\refint\a_constructor.dll
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\a_constructor.pdb
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\a_constructor.genruntimeconfig.cache
+D:\B6_VP\M_Constructor_Destructor\a_constructor\obj\Debug\net10.0\ref\a_constructor.dll

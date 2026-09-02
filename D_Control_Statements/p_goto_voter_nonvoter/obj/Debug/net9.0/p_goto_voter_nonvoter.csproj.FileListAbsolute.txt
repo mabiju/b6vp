@@ -1,0 +1,15 @@
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\bin\Debug\net9.0\p_goto_voter_nonvoter.exe
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\bin\Debug\net9.0\p_goto_voter_nonvoter.deps.json
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\bin\Debug\net9.0\p_goto_voter_nonvoter.runtimeconfig.json
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\bin\Debug\net9.0\p_goto_voter_nonvoter.dll
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\bin\Debug\net9.0\p_goto_voter_nonvoter.pdb
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\p_goto_voter_nonvoter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\p_goto_voter_nonvoter.AssemblyInfoInputs.cache
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\p_goto_voter_nonvoter.AssemblyInfo.cs
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\p_goto_voter_nonvoter.csproj.CoreCompileInputs.cache
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\p_goto_voter_nonvoter.sourcelink.json
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\p_goto_voter_nonvoter.dll
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\refint\p_goto_voter_nonvoter.dll
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\p_goto_voter_nonvoter.pdb
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\p_goto_voter_nonvoter.genruntimeconfig.cache
+D:\SCVPB6\D_Control_Statements\p_goto_voter_nonvoter\obj\Debug\net9.0\ref\p_goto_voter_nonvoter.dll

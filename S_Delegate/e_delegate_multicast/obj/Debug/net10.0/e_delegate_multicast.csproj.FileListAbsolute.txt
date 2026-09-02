@@ -1,0 +1,15 @@
+D:\B6_VP\S_Delegate\e_delegate_multicast\bin\Debug\net10.0\e_delegate_multicast.exe
+D:\B6_VP\S_Delegate\e_delegate_multicast\bin\Debug\net10.0\e_delegate_multicast.deps.json
+D:\B6_VP\S_Delegate\e_delegate_multicast\bin\Debug\net10.0\e_delegate_multicast.runtimeconfig.json
+D:\B6_VP\S_Delegate\e_delegate_multicast\bin\Debug\net10.0\e_delegate_multicast.dll
+D:\B6_VP\S_Delegate\e_delegate_multicast\bin\Debug\net10.0\e_delegate_multicast.pdb
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\e_delegate_multicast.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\e_delegate_multicast.AssemblyInfoInputs.cache
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\e_delegate_multicast.AssemblyInfo.cs
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\e_delegate_multicast.csproj.CoreCompileInputs.cache
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\e_delegate_multicast.sourcelink.json
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\e_delegate_multicast.dll
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\refint\e_delegate_multicast.dll
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\e_delegate_multicast.pdb
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\e_delegate_multicast.genruntimeconfig.cache
+D:\B6_VP\S_Delegate\e_delegate_multicast\obj\Debug\net10.0\ref\e_delegate_multicast.dll

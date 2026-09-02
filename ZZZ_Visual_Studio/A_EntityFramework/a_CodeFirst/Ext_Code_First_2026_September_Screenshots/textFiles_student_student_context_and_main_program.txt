@@ -1,0 +1,100 @@
+For Screenshot no 6 Student.cs
+------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CodeFirst
+{
+    internal class Student
+    {
+        public int Roll { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
+    }
+}
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+For Screenshot no 8 under Package Manager Console
+-------------------------------------------------
+PM> Install-Package EntityFramework
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+For Screenshot no 10 Student.cs
+------------------------------
+using System.ComponentModel.DataAnnotations;
+[Key]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+For Screenshot no 13 StudentContext.cs
+--------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CodeFirst
+{
+    internal class StudentContext : DbContext
+    {
+        public StudentContext() : base()
+        {
+
+        }
+        public DbSet<Student> Students { get; set; }
+    }
+}
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+For Screenshot no 15 App.config
+------------------------------
+<connectionStrings>
+	<add
+        	name="StudentContext"
+		connectionString="Data Source =VJMALLA-BA73PA\BIJU;Initial Catalog=code_first;Integrated Security=True;"
+		providerName="System.Data.SqlClient"
+	/>
+</connectionStrings>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+For Screenshot no 16 StudentContext.cs
+--------------------------------------
+Database.SetInitializer<StudentContext>(new CreateDatabaseIfNotExists<StudentContext>());
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+For Screenshot no 17 Program.cs
+--------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Sockets;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CodeFirst
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            StudentContext context = new StudentContext();
+            Student st = new Student()
+            {
+                Roll = 45,
+                Name = "Ram",
+                Address = "Bhaktapur"
+            };
+            context.Students.Add(st);
+            context.SaveChanges();
+            Console.WriteLine("Data inserted successfully.");
+	    Console.ReadLine();
+        }
+    }
+}
+
+

@@ -1,0 +1,15 @@
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\bin\Debug\net10.0\b_constructor_destructor.exe
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\bin\Debug\net10.0\b_constructor_destructor.deps.json
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\bin\Debug\net10.0\b_constructor_destructor.runtimeconfig.json
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\bin\Debug\net10.0\b_constructor_destructor.dll
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\bin\Debug\net10.0\b_constructor_destructor.pdb
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\b_constructor_destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\b_constructor_destructor.AssemblyInfoInputs.cache
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\b_constructor_destructor.AssemblyInfo.cs
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\b_constructor_destructor.csproj.CoreCompileInputs.cache
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\b_constructor_destructor.sourcelink.json
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\b_constructor_destructor.dll
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\refint\b_constructor_destructor.dll
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\b_constructor_destructor.pdb
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\b_constructor_destructor.genruntimeconfig.cache
+D:\B6_VP\M_Constructor_Destructor\b_constructor_destructor\obj\Debug\net10.0\ref\b_constructor_destructor.dll

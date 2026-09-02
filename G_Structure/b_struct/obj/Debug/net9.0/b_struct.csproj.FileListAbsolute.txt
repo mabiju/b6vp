@@ -1,0 +1,15 @@
+D:\SCVPB6\G_Structure\b_struct\bin\Debug\net9.0\b_struct.exe
+D:\SCVPB6\G_Structure\b_struct\bin\Debug\net9.0\b_struct.deps.json
+D:\SCVPB6\G_Structure\b_struct\bin\Debug\net9.0\b_struct.runtimeconfig.json
+D:\SCVPB6\G_Structure\b_struct\bin\Debug\net9.0\b_struct.dll
+D:\SCVPB6\G_Structure\b_struct\bin\Debug\net9.0\b_struct.pdb
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\b_struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\b_struct.AssemblyInfoInputs.cache
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\b_struct.AssemblyInfo.cs
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\b_struct.csproj.CoreCompileInputs.cache
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\b_struct.sourcelink.json
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\b_struct.dll
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\refint\b_struct.dll
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\b_struct.pdb
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\b_struct.genruntimeconfig.cache
+D:\SCVPB6\G_Structure\b_struct\obj\Debug\net9.0\ref\b_struct.dll

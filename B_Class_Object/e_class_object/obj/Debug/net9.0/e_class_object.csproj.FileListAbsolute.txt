@@ -1,0 +1,15 @@
+D:\SCVPB6\B_Class_Object\e_class_object\bin\Debug\net9.0\e_class_object.exe
+D:\SCVPB6\B_Class_Object\e_class_object\bin\Debug\net9.0\e_class_object.deps.json
+D:\SCVPB6\B_Class_Object\e_class_object\bin\Debug\net9.0\e_class_object.runtimeconfig.json
+D:\SCVPB6\B_Class_Object\e_class_object\bin\Debug\net9.0\e_class_object.dll
+D:\SCVPB6\B_Class_Object\e_class_object\bin\Debug\net9.0\e_class_object.pdb
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\e_class_object.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\e_class_object.AssemblyInfoInputs.cache
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\e_class_object.AssemblyInfo.cs
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\e_class_object.csproj.CoreCompileInputs.cache
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\e_class_object.sourcelink.json
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\e_class_object.dll
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\refint\e_class_object.dll
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\e_class_object.pdb
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\e_class_object.genruntimeconfig.cache
+D:\SCVPB6\B_Class_Object\e_class_object\obj\Debug\net9.0\ref\e_class_object.dll

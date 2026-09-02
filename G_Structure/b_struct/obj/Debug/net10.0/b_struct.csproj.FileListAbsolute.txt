@@ -1,0 +1,15 @@
+D:\B6_VP\G_Structure\b_struct\bin\Debug\net10.0\b_struct.exe
+D:\B6_VP\G_Structure\b_struct\bin\Debug\net10.0\b_struct.deps.json
+D:\B6_VP\G_Structure\b_struct\bin\Debug\net10.0\b_struct.runtimeconfig.json
+D:\B6_VP\G_Structure\b_struct\bin\Debug\net10.0\b_struct.dll
+D:\B6_VP\G_Structure\b_struct\bin\Debug\net10.0\b_struct.pdb
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\b_struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\b_struct.AssemblyInfoInputs.cache
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\b_struct.AssemblyInfo.cs
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\b_struct.csproj.CoreCompileInputs.cache
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\b_struct.sourcelink.json
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\b_struct.dll
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\refint\b_struct.dll
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\b_struct.pdb
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\b_struct.genruntimeconfig.cache
+D:\B6_VP\G_Structure\b_struct\obj\Debug\net10.0\ref\b_struct.dll

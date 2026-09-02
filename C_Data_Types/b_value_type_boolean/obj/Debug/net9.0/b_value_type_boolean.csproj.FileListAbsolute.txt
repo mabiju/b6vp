@@ -1,0 +1,15 @@
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\b_value_type_boolean.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\b_value_type_boolean.AssemblyInfoInputs.cache
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\b_value_type_boolean.AssemblyInfo.cs
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\b_value_type_boolean.csproj.CoreCompileInputs.cache
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\b_value_type_boolean.sourcelink.json
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\bin\Debug\net9.0\b_value_type_boolean.exe
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\bin\Debug\net9.0\b_value_type_boolean.deps.json
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\bin\Debug\net9.0\b_value_type_boolean.runtimeconfig.json
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\bin\Debug\net9.0\b_value_type_boolean.dll
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\bin\Debug\net9.0\b_value_type_boolean.pdb
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\b_value_type_boolean.dll
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\refint\b_value_type_boolean.dll
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\b_value_type_boolean.pdb
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\b_value_type_boolean.genruntimeconfig.cache
+D:\SCVPB6\C_Data_Types\b_value_type_boolean\obj\Debug\net9.0\ref\b_value_type_boolean.dll
