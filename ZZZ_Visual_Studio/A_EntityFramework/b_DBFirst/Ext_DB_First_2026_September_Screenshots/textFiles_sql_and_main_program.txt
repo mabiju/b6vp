@@ -1,0 +1,53 @@
+insert into Students (Roll, FirstName, LastName, DOB, Address)
+values
+(1,'Ram','Thapa','1999-02-15','Pokhara'),
+(2,'Sita','Rai','2000-02-15','Kathmandu'),
+(3,'Hari','Dhungana','1999-02-15','Pokhara'),
+(4,'Gita','Kattel','1999-02-15','Butwal'),
+(5,'Nita','Nepal','1999-02-15','Dhading'),
+(6,'Mina','Khadka','1978-02-15','Bhaktapur'),
+(7,'Tina','Neupane','1989-02-15','Dhangadhi');
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+select * from Students;
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DBFirst
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            using (var db = new db_firstEntities())
+            {
+                var query = from b in db.Students
+                            orderby b.FirstName
+                            select b;
+                Console.WriteLine("All student in the database:");
+
+                foreach (var item in query)
+                {
+                    Console.WriteLine(item.FirstName + " " + item.LastName);
+                }
+                Console.WriteLine("Press any key to exit...");
+                Console.ReadKey();
+            }
+        }
+    }
+}
+
+
+
+

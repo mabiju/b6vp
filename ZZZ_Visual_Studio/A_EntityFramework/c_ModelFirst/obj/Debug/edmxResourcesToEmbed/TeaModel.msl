@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TeaModelStoreContainer" CdmEntityContainer="TeaModelContainer">
+    <EntitySetMapping Name="Teas">
+      <EntityTypeMapping TypeName="IsTypeOf(TeaModel.Tea)">
+        <MappingFragment StoreEntitySet="Teas">
+          <ScalarProperty Name="TeaId" ColumnName="TeaId" />
+          <ScalarProperty Name="TeaName" ColumnName="TeaName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Factories">
+      <EntityTypeMapping TypeName="IsTypeOf(TeaModel.Factory)">
+        <MappingFragment StoreEntitySet="Factories">
+          <ScalarProperty Name="FactoryId" ColumnName="FactoryId" />
+          <ScalarProperty Name="FactoryName" ColumnName="FactoryName" />
+          <ScalarProperty Name="FactoryAddress" ColumnName="FactoryAddress" />
+          <ScalarProperty Name="TeaTeaId" ColumnName="TeaTeaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

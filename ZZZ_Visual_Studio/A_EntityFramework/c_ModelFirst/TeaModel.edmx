@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TeaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TeaModelStoreContainer">
+    <EntitySet Name="Teas" EntityType="TeaModel.Store.Teas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Factories" EntityType="TeaModel.Store.Factories" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="TeaFactory" Association="TeaModel.Store.TeaFactory">
+      <End Role="Tea" EntitySet="Teas" />
+      <End Role="Factory" EntitySet="Factories" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Teas">
+    <Key>
+      <PropertyRef Name="TeaId" />
+    </Key>
+    <Property Name="TeaId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TeaName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Factories">
+    <Key>
+      <PropertyRef Name="FactoryId" />
+    </Key>
+    <Property Name="FactoryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FactoryName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="FactoryAddress" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TeaTeaId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="TeaFactory">
+    <End Role="Tea" Type="TeaModel.Store.Teas" Multiplicity="1" />
+    <End Role="Factory" Type="TeaModel.Store.Factories" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tea">
+        <PropertyRef Name="TeaId" />
+      </Principal>
+      <Dependent Role="Factory">
+        <PropertyRef Name="TeaTeaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="TeaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="TeaModelContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Teas" EntityType="TeaModel.Tea" />
+          <EntitySet Name="Factories" EntityType="TeaModel.Factory" />
+          <AssociationSet Name="TeaFactory" Association="TeaModel.TeaFactory">
+            <End Role="Tea" EntitySet="Teas" />
+            <End Role="Factory" EntitySet="Factories" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Tea">
+          <Key>
+            <PropertyRef Name="TeaId" />
+          </Key>
+          <Property Name="TeaId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TeaName" Type="String" Nullable="false" />
+          <NavigationProperty Name="Factories" Relationship="TeaModel.TeaFactory" FromRole="Tea" ToRole="Factory" />
+        </EntityType>
+        <EntityType Name="Factory">
+          <Key>
+            <PropertyRef Name="FactoryId" />
+          </Key>
+          <Property Name="FactoryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FactoryName" Type="String" Nullable="false" />
+          <Property Name="FactoryAddress" Type="String" Nullable="false" />
+          <NavigationProperty Name="Tea" Relationship="TeaModel.TeaFactory" FromRole="Factory" ToRole="Tea" />
+          <Property Name="TeaTeaId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="TeaFactory">
+          <End Type="TeaModel.Tea" Role="Tea" Multiplicity="1" />
+          <End Type="TeaModel.Factory" Role="Factory" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tea">
+              <PropertyRef Name="TeaId" />
+            </Principal>
+            <Dependent Role="Factory">
+              <PropertyRef Name="TeaTeaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TeaModelStoreContainer" CdmEntityContainer="TeaModelContainer">
+    <EntitySetMapping Name="Teas">
+      <EntityTypeMapping TypeName="IsTypeOf(TeaModel.Tea)">
+        <MappingFragment StoreEntitySet="Teas">
+          <ScalarProperty Name="TeaId" ColumnName="TeaId" />
+          <ScalarProperty Name="TeaName" ColumnName="TeaName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Factories">
+      <EntityTypeMapping TypeName="IsTypeOf(TeaModel.Factory)">
+        <MappingFragment StoreEntitySet="Factories">
+          <ScalarProperty Name="FactoryId" ColumnName="FactoryId" />
+          <ScalarProperty Name="FactoryName" ColumnName="FactoryName" />
+          <ScalarProperty Name="FactoryAddress" ColumnName="FactoryAddress" />
+          <ScalarProperty Name="TeaTeaId" ColumnName="TeaTeaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

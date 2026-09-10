@@ -1,0 +1,12 @@
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\bin\Debug\c_ModelFirst.exe.config
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\bin\Debug\c_ModelFirst.exe
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\bin\Debug\c_ModelFirst.pdb
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\bin\Debug\EntityFramework.dll
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\bin\Debug\EntityFramework.xml
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\obj\Debug\c_ModelFirst.csproj.AssemblyReference.cache
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\obj\Debug\c_ModelFirst.csproj.CoreCompileInputs.cache
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\obj\Debug\c_ModelF.392014C6.Up2Date
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\obj\Debug\c_ModelFirst.exe
+D:\B6_VP\ZZZ_Visual_Studio\A_EntityFramework\c_ModelFirst\obj\Debug\c_ModelFirst.pdb

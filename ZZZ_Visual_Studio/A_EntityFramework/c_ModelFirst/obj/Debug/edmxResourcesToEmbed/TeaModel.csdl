@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="TeaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="TeaModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Teas" EntityType="TeaModel.Tea" />
+    <EntitySet Name="Factories" EntityType="TeaModel.Factory" />
+    <AssociationSet Name="TeaFactory" Association="TeaModel.TeaFactory">
+      <End Role="Tea" EntitySet="Teas" />
+      <End Role="Factory" EntitySet="Factories" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Tea">
+    <Key>
+      <PropertyRef Name="TeaId" />
+    </Key>
+    <Property Name="TeaId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TeaName" Type="String" Nullable="false" />
+    <NavigationProperty Name="Factories" Relationship="TeaModel.TeaFactory" FromRole="Tea" ToRole="Factory" />
+  </EntityType>
+  <EntityType Name="Factory">
+    <Key>
+      <PropertyRef Name="FactoryId" />
+    </Key>
+    <Property Name="FactoryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FactoryName" Type="String" Nullable="false" />
+    <Property Name="FactoryAddress" Type="String" Nullable="false" />
+    <NavigationProperty Name="Tea" Relationship="TeaModel.TeaFactory" FromRole="Factory" ToRole="Tea" />
+    <Property Name="TeaTeaId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="TeaFactory">
+    <End Type="TeaModel.Tea" Role="Tea" Multiplicity="1" />
+    <End Type="TeaModel.Factory" Role="Factory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tea">
+        <PropertyRef Name="TeaId" />
+      </Principal>
+      <Dependent Role="Factory">
+        <PropertyRef Name="TeaTeaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

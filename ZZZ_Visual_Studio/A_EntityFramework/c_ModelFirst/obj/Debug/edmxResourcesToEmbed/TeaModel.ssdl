@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TeaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TeaModelStoreContainer">
+    <EntitySet Name="Teas" EntityType="TeaModel.Store.Teas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Factories" EntityType="TeaModel.Store.Factories" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="TeaFactory" Association="TeaModel.Store.TeaFactory">
+      <End Role="Tea" EntitySet="Teas" />
+      <End Role="Factory" EntitySet="Factories" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Teas">
+    <Key>
+      <PropertyRef Name="TeaId" />
+    </Key>
+    <Property Name="TeaId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TeaName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Factories">
+    <Key>
+      <PropertyRef Name="FactoryId" />
+    </Key>
+    <Property Name="FactoryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FactoryName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="FactoryAddress" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TeaTeaId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="TeaFactory">
+    <End Role="Tea" Type="TeaModel.Store.Teas" Multiplicity="1" />
+    <End Role="Factory" Type="TeaModel.Store.Factories" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tea">
+        <PropertyRef Name="TeaId" />
+      </Principal>
+      <Dependent Role="Factory">
+        <PropertyRef Name="TeaTeaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
