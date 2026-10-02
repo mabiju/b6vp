@@ -1,0 +1,186 @@
+@* Program no 1 
+Note: Run the program according to attached screenshots with this project.
+@page
+<h1>Hello Nepal</h1>
+@{
+    string name = "Ram";
+}
+
+<p>Hello, @name! </p>
+*@
+
+@* Program no 2 
+@page
+@{
+    string name = "Ram";
+    int age = 25;
+    double salary = 50000.50;
+    bool isStudent = true;
+}
+
+<p>Name = @name</p>
+<p>Age = @age</p>
+<p>Salary = @salary</p>
+<p>Student = @isStudent</p>
+*@
+
+@* Program no 3 
+@page
+<h1>Adder:</h1>
+@{
+    int a = 10;
+    int b = 20;
+    int sum = a + b;
+}
+
+
+<p>First Number: @a</p>
+<p>Second Number: @b</p>
+<p>Sum = @sum</p>
+*@
+
+@* Program no 4 
+@page
+<h1>Result Finder:</h1>
+@{
+    int marks = 37;
+}
+@if (marks >= 80)
+{
+    <p>First division with distinction.</p>
+}
+else if (marks >= 60)
+{
+    <p>First division</p>
+}
+else if (marks >= 45)
+{
+    <p>Second division</p>
+}
+else if (marks >= 32)
+{
+    <p>Third division</p>
+}
+else
+{
+    <p>Fail</p>
+}
+*@
+
+@* Program no 5 
+@page
+<h1>Logical AND:</h1>
+@{
+    int age = 25;
+    bool hasCitizenship = true;
+}
+@if(age >=10 && hasCitizenship)
+{
+    <p>You're eligible to get voter card.</p>
+}
+else
+{
+    <p>You're not eligible to get voter card.</p>
+}
+*@
+
+@* Program no 6 
+@page
+<h1>Logical OR:</h1>
+@{
+    int experienceYrs = 5;
+    bool hasDricingLicense = true;
+}
+
+@if (experienceYrs >= 2 || hasDricingLicense)
+{
+    <p>You're eligible to apply for "Jr.Driver" post.</p>
+}
+else
+{
+    <p>You're not eligible to apply for "Jr.Driver" post.</p>
+}
+*@
+
+@* Program no 7 
+@page
+<h1>Logical NOT:</h1>
+@{
+    bool isLogin = false;
+}
+@if(!isLogin)
+{
+    <p>Please Log in.</p>
+}
+*@
+
+@* Program no 8 
+@page
+<h1>For Loop:</h1>
+@for(int i = 1; i <10; i++)
+{
+    <p>Number = @i</p>
+}
+*@
+
+@* Program no 9 
+@page
+<h1>While Loop:</h1>
+@{
+    int i = 1;
+}
+@while(i <= 10)
+{
+    <p>Number = @i</p>
+    i++;
+}
+*@
+
+@* Program no 10 
+@page
+<h1>Do While Loop:</h1>
+@{
+    int i = 10;
+}
+@do
+{
+    <p>Number = @i</p>
+    i-=2;
+}while(i >=2);
+*@
+
+@* Program no 11 
+@page
+<h1>For each Loop:</h1>
+@{
+    string[] students = { "Ram", "Sita", "Hari", "Gita" };
+}
+@foreach (string student in students)
+{
+    <p>Student: @student</p>
+}
+
+*@
+
+@* Program no 12 *@
+@page
+@{
+    string[] students = { "Ram", "Sita", "Hari", "Gita" };
+    int[] marks = { 80, 35, 65, 45 };
+}
+<h1>Student Result:</h1>
+@for (int i = 0; i < students.Length; i++)
+{
+    <p>
+        Marks of @students[i] is @marks[i], and result is 
+
+        @if (marks[i] >= 40)
+        {
+            <b> Pass</b>
+        }
+        else
+        {
+            <b> Fail</b>
+        }
+    </p>
+}
