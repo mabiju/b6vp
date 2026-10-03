@@ -1,0 +1,23 @@
+@page
+@model StudentFormModel
+
+<h1>Student Form</h1>
+
+<form method="post">
+    <label>Name:</label>
+    <input type="text" asp-for="Name">
+    <br /> <br />
+
+    <label>Age:</label>
+    <input type="number" asp-for="Age">
+    <br /> <br />
+
+    <button type="submit">Submit</button>
+</form>
+
+@if(Model.IsSubmitted)
+{
+    <h2>Student Information</h2>
+    <p>Name = @Model.Name</p>
+    <p>Age = @Model.Age</p>
+}
