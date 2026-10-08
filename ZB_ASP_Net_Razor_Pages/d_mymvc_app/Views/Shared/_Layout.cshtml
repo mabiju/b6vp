@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - My MVC App</title>
+</head>
+<body>
+    <header>
+        <h2>My MVC Application</h2>
+
+        <nav>
+            <a href="/">Home</a>    |
+            <a href="/Home/About">About</a>    |
+            <a href="/Home/Students">Students</a>    |
+            <a href="/Home/Contact">Contact</a>
+        </nav>
+
+        <hr />
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <hr />
+        <p>&copy; 2026 My MVC Application</p>
+    </footer>
+</body>
+</html>
